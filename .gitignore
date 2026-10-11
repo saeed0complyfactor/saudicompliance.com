@@ -1,0 +1,15 @@
+# Website-only repository: everything is ignored except what the site needs.
+/*
+!/site/
+!/static/
+!/content/
+!/build.py
+!/insights.py
+!/content_en.py
+!/content_ar.py
+!/pages_*.py
+!/.github/
+!/README.md
+!/CREDITS.md
+!/.gitignore
+__pycache__/

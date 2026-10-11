@@ -1,0 +1,35 @@
+# Saudi Compliance
+
+> SAMA and CMA licensing, MLRO and AML programmes, ongoing compliance and independent review for fintechs in Saudi Arabia. Riyadh office. A ComplyFactor company.
+
+Regulatory compliance advisory in Riyadh for fintechs: incorporation, SAMA and CMA licensing, MLRO and AML programmes, ongoing compliance, independent review. A ComplyFactor company.
+
+## Pages
+- [Every stage of the licence path](https://saudicompliance.com/en/services/): Five stages, one firm: incorporation, SAMA and CMA licensing, MLRO and AML programme build, ongoing compliance and independent review for Saudi fintechs.
+- [Every fintech licence in Saudi Arabia, mapped](https://saudicompliance.com/en/licensing/): Every fintech licence and permit in Saudi Arabia in one table: SAMA payment, e-money, BNPL, open banking, finance company; CMA FinTech permit and CMI licences.
+- [SAMA payment institution licence](https://saudicompliance.com/en/licensing/payment-institution-licence/): How to get a SAMA payment institution licence in Saudi Arabia: Micro vs Major categories, SAR 1m and SAR 3m capital, the application stages, and the AML work SAMA expects.
+- [E-money institution licence](https://saudicompliance.com/en/licensing/e-money-licence/): SAMA e-money institution licence: Micro (SAR 2m) and Major (SAR 10m) categories, safeguarding, the application process and AML requirements for wallets.
+- [Buy now, pay later licence](https://saudicompliance.com/en/licensing/bnpl-licence/): SAMA's Buy Now Pay Later rules: SAR 5m capital, joint stock company requirement, 50% Saudi staff at launch, and what your application needs.
+- [Open banking licence](https://saudicompliance.com/en/licensing/open-banking-licence/): SAMA moved open banking from sandbox to formal licensing in March 2026. What account information and payment initiation providers need to apply.
+- [Finance company licence](https://saudicompliance.com/en/licensing/finance-company-licence/): SAMA finance company licensing under the Finance Companies Control Law: consumer microfinance, SME and fintech lending, and debt-based crowdfunding.
+- [Your MLRO and compliance function](https://saudicompliance.com/en/compliance-function/): Can you outsource your MLRO in Saudi Arabia? SAMA requires Saudi-national CCO and AML Directors. How we recruit, prepare and support them, and build your AML/CFT programme.
+- [Compliance that keeps running](https://saudicompliance.com/en/ongoing-compliance/): Co-sourced compliance monitoring, regulatory reporting, SAFIU STR procedures, PDPL compliance and AML training for licensed fintechs in Saudi Arabia.
+- [Know where you stand before the regulator does](https://saudicompliance.com/en/audit-review/): Independent AML effectiveness reviews, compliance health checks, regulator inspection support and FATF mutual evaluation readiness for fintechs in Saudi Arabia.
+- [Specialists in one market](https://saudicompliance.com/en/about/): Saudi Compliance is a Riyadh-based regulatory compliance advisory for fintechs, and part of ComplyFactor's cross-border AML and licensing practice.
+- [CMA licences for fintech and investment firms](https://saudicompliance.com/en/licensing/cma-licences/): CMA licences in Saudi Arabia: the five securities activities, capital in force, 2020 fees, registered persons and the May 2026 draft not yet adopted.
+- [CMA FinTech Experimental Permit](https://saudicompliance.com/en/licensing/cma-fintech-experimental-permit/): How the CMA FinTech Experimental Permit works: who can apply, the process, the two-year limit, permit numbers and the April 2026 draft update.
+- [Capital market institution licence](https://saudicompliance.com/en/licensing/capital-market-institution-licence/): CMA capital market institution licence in Saudi Arabia: the five activities, capital, Annex 3.1 documents, stages, registered persons and renewal.
+- [Crowdfunding licence in Saudi Arabia](https://saudicompliance.com/en/licensing/crowdfunding-licence-saudi-arabia/): CMA crowdfunding licence in Saudi Arabia: equity (2022) and debt (2025) platforms under an Arranging licence, offer limits and client money rules.
+- [Robo-advisory licensing in Saudi Arabia](https://saudicompliance.com/en/licensing/robo-advisory-licence/): Robo-advisory in Saudi Arabia has been CMA-regulated since March 2026 and runs under a Managing licence. The conditions, IT Officer, capital and fees.
+- [Insurance Authority licensing for insurtechs](https://saudicompliance.com/en/licensing/insurance-authority-licence/): Insurance Authority licensing in Saudi Arabia for insurers, brokers, aggregators and insurtechs: the rules in force, the Insurance Lab and the draft law.
+- [PDPL compliance for fintechs](https://saudicompliance.com/en/pdpl-compliance-saudi-arabia/): PDPL compliance for Saudi fintechs: SDAIA, controller registration on the data governance platform, transfers, 72-hour breach notice and the 2026 draft.
+- [Cybersecurity rules your licence file must answer](https://saudicompliance.com/en/cybersecurity-compliance-saudi-arabia/): Cybersecurity compliance for Saudi fintechs: NCA Essential and Cloud Cybersecurity Controls, CST cloud rules, SAMA's framework and your licence file.
+- [Set up the entity your licence needs](https://saudicompliance.com/en/incorporation/): Setting up a fintech company in Saudi Arabia: MISA investment registration, the 2025 Commercial Register Law, ZATCA and Fatoora, GOSI and Nitaqat.
+- [Crypto in Saudi Arabia: the straight answer](https://saudicompliance.com/en/digital-assets/): Crypto regulation in Saudi Arabia, October 2026: no VASP licence or crypto rulebook, FATF lists KSA as prohibiting VASPs, and the routes firms use instead.
+
+## Guides
+- [Real Estate Tokenization in Saudi Arabia: 2026 Status Guide](https://saudicompliance.com/en/insights/real-estate-tokenization-saudi-arabia/): Real estate tokenization in Saudi Arabia in October 2026: REGA runs a sandbox, pilots are complete and no national tokenization law is confirmed.
+- [Saudi Fintech Events 2025-26: What Changed for Licensing](https://saudicompliance.com/en/insights/saudi-fintech-events-2025-2026/): Saudi fintech events 2025-26: SAMA moved open banking to commercial licensing, REGA oversaw the first deed tokenization and CMA opened the Main Market.
+
+Arabic edition: https://saudicompliance.com/ar/
+Contact: info@saudicompliance.com
