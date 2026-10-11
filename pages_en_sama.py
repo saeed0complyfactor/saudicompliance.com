@@ -124,7 +124,7 @@ PAGES = [
         ]},
         {"type": "prose", "h2": "What falls outside the licence", "body": [
             "Article 7 lists 17 exclusions. They include cash-only payments, commercial agents, cash-in-transit, cheques and paper vouchers, technical service providers, limited-network instruments, intra-group payments, some independent ATM deployers, banking business under the Banking Control Law, finance company activity under the Finance Companies Control Law, and money remittance, which the regulations define as funds received without a payment account being created for the payer or payee.",
-            "Licensed banks are exempt from payment licensing (Article 48). Limited network service providers register with SAMA instead of applying for a licence, and must tell SAMA if their transactions pass SAR 5 million in 12 months or SAR 2 million in any month. SAMA may then require a licence. If your model sits near one of these lines, get the exclusion analysis in writing before you build the file.",
+            "Licensed banks are exempt from payment licensing (Article 48). Limited network service providers register with SAMA instead of applying for a licence, and must tell SAMA if their transactions pass SAR 5 million in 12 months or SAR 2 million in any month. SAMA may then require a licence. Settle the exclusion analysis in writing early, because it decides whether you need a licence at all.",
         ]},
         {"type": "table", "h2": "Micro or Major payment institution", "head": ["", "Micro payment institution", "Major payment institution"], "rows": [
             ["Services", "One or more payment services, excluding e-money issuance", "Payment services, excluding e-money issuance"],
@@ -142,7 +142,7 @@ PAGES = [
         ]},
         {"type": "prose", "h2": "Safeguarding and the bank guarantee", "body": [
             "Client funds must be safeguarded as soon as they are received. Any funds still held at the end of the business day after receipt go into a segregated account at a licensed bank named \"Deposit and Safeguard of Funds of a Payment Service Provider's Clients\", or into secure liquid assets approved by SAMA and held by an authorised custodian. Safeguarded funds cannot be used for anything else, including lending. SAMA wants the safeguarding policy and the signed bank agreement in the application file.",
-            "On the bank guarantee, the texts disagree. Article 8 of the Implementing Regulations asks for an irrevocable guarantee equal to the required minimum capital; the current Licensing Guidelines (Appendix A, item 9) ask for 20% of it. SAMA confirms the figure for each application. Ask early, because a guarantee for the full capital ties up a different amount of money.",
+            "On the bank guarantee, the texts disagree. Article 8 of the Implementing Regulations asks for an irrevocable guarantee equal to the required minimum capital; the current Licensing Guidelines (Appendix A, item 9) ask for 20% of it. Neither text has been withdrawn, so ask SAMA which figure applies before you approach your bank, and budget for both until you have an answer.",
         ]},
         {"type": "steps", "h2": "The application, stage by stage", "items": [
             ("Prepare the forms", "Read the Implementing Regulations, then complete SAMA's License Application Form and the Fit and Proper Form for shareholders, board and committee members, and every senior position."),
@@ -235,7 +235,7 @@ PAGES = [
             ("Decision", "SAMA decides within 90 calendar days of confirming the file is complete, or notifies a revised timeline. Approval in principle lasts up to one year, extendable by 180 days, and does not authorise operations."),
             ("Licence", "Meet the conditions, pay the fee and receive the licence. The licence appears on SAMA's public register."),
         ]},
-        {"type": "callout", "title": "Bank guarantee: confirm the amount", "body": "Article 8 of the Implementing Regulations asks for a bank guarantee equal to the minimum capital; the current Licensing Guidelines ask for 20%. For a Major EMI that is the difference between SAR 10 million and SAR 2 million. SAMA confirms the figure for each application."},
+        {"type": "callout", "title": "Bank guarantee: confirm the amount", "body": "Article 8 of the Implementing Regulations asks for a bank guarantee equal to the minimum capital; the current Licensing Guidelines ask for 20%. For a Major EMI that is the difference between SAR 10 million and SAR 2 million. Neither text has been withdrawn, so ask SAMA which figure applies before you approach your bank, and budget for both until you have an answer."},
         {"type": "faq", "h2": "Common questions", "items": [
             ("Can a Micro EMI be a limited liability company?", "No. Article 14 requires Micro and Major e-money institutions to be joint stock companies. Only a Micro payment institution may be an LLC or simplified JSC."),
             ("Can we raise the SAR 20,000 per-user limit?", "SAMA may raise the Micro EMI per-user holding and monthly transaction limits on application, and the same applies to the Major EMI limits of SAR 100,000. Make the case in the business plan, with the controls that go with higher limits."),
@@ -294,7 +294,7 @@ PAGES = [
             ("Licence decision", "SAMA issues the licence decision. The fee is SAR 5,000."),
         ]},
         {"type": "prose", "h2": "Bank guarantee and renewal: two open points", "body": [
-            "The bank guarantee at application is one of the places where the documents differ. Article 4(8) of the BNPL Rules asks for a guarantee equal to the full minimum capital for a company under establishment. The BNPL Licence Guidelines and Article 7(8) of the amended FCCL Implementing Regulation both say 20%. The later documents point to 20%, but SAMA confirms the figure per application.",
+            "The bank guarantee at application is one of the places where the documents differ. Article 4(8) of the BNPL Rules asks for a guarantee equal to the full minimum capital for a company under establishment. The BNPL Licence Guidelines and Article 7(8) of the amended FCCL Implementing Regulation both say 20%. The later documents point to 20%, but neither text has been withdrawn, so ask SAMA which figure applies.",
             "Renewal timing also differs. The BNPL Rules (Article 10) ask for a renewal application at least three months before expiry, while the general rule in the amended FCCL Implementing Regulation (Article 18) is six months. Filing six months ahead satisfies both.",
         ]},
         {"type": "list", "h2": "Ongoing obligations after licensing", "items": [
@@ -503,7 +503,7 @@ PAGES = [
             ["Use it or lose it", "Licence revoked if not used within 6 months", "Rules Art 15"],
         ], "note": "The rules we reviewed do not restrict the legal form of an aggregation company and do not state a licence fee. Confirm both with SAMA before you incorporate."},
         {"type": "prose", "h2": "The bank guarantee question", "body": [
-            "The Rules of Licensing Finance Support Activities ask for a bank guarantee equal to the minimum capital for a company in formation, which would be SAR 2 million. The Finance Support Activities License Guidelines ask for 20%, which would be SAR 400,000. The later documents across SAMA's finance regimes point to 20%, but SAMA confirms the figure per application, so raise it in your first contact with the licensing team.",
+            "The Rules of Licensing Finance Support Activities ask for a bank guarantee equal to the minimum capital for a company in formation, which would be SAR 2 million. The Finance Support Activities License Guidelines ask for 20%, which would be SAR 400,000. The later documents across SAMA's finance regimes point to 20%, but neither text has been withdrawn, so ask SAMA which figure applies in your first contact with the licensing team.",
         ]},
         {"type": "steps", "h2": "How the application runs", "items": [
             ("Prepare the file", "Follow the Finance Support Activities License Guidelines: application form, fit and proper forms for founders and managers, business plan, policies and the bank guarantee. Send it to SAMA's licensing team by email."),

@@ -198,15 +198,15 @@ PAGES = [
     "title": "Fintech Company Setup in Saudi Arabia: MISA, CR & ZATCA",
     "description": "Setting up a fintech company in Saudi Arabia: MISA investment registration, the 2025 Commercial Register Law, ZATCA and Fatoora, GOSI and Nitaqat.",
     "h1": "Set up the entity your <em>licence</em> needs",
-    "lede": "The regulator application comes after the company. Getting the company wrong, in legal form, capital or activities, is the most common reason a licence plan slips. This is the sequence a foreign fintech follows in 2026.",
+    "lede": "The company is built around the licence: you apply to the regulator first and incorporate, in the legal form and with the capital it requires, once you hold approval in principle. Getting the company wrong, in legal form, capital or activities, is the most common reason a licence plan slips. This is the sequence a foreign fintech follows in 2026.",
     "blocks": [
         {"type": "steps", "h2": "The sequence for a foreign fintech", "items": [
             ("Confirm the target licence", "The licence decides legal form, capital, staffing and permitted activities. We fix it before anything is filed. See <a href=\"@/licensing/\">licensing</a>."),
-            ("Register the investment with MISA", "Foreign-owned companies register with the Ministry of Investment before they apply to SAMA, the CMA or the Insurance Authority."),
-            ("Incorporate and obtain the commercial registration", "Articles of association and activities drafted around the regulated activity, under the Companies Law and the Commercial Register Law."),
-            ("Tax, social insurance and labour", "ZATCA for zakat, tax and VAT, GOSI for every employee, and Qiwa for employment contracts."),
-            ("Capital, bank account and premises", "Deposit capital, open the bank account the commercial registration must be linked to, and secure premises."),
-            ("Regulator application", "Only then does the licence application go in."),
+            ("Apply to the regulator and get approval in principle", "The licence application goes in before the company exists, with draft articles of association. SAMA decides on a payment licence file within 90 calendar days of confirming it is complete, and on a finance or BNPL file within 60 working days. A payments approval in principle does not authorise you to operate."),
+            ("Register the investment with MISA", "Foreign-owned companies register with the Ministry of Investment, and the registration must be in place before SAMA, the CMA or the Insurance Authority issues the licence."),
+            ("Incorporate in the required form and capital", "Commercial registration and articles of association at the Ministry of Commerce, in the legal form and with the capital the licence requires: within 180 days of approval in principle for a payment licence, or six months for finance and BNPL companies."),
+            ("Tax, social insurance, labour and banking", "ZATCA for zakat, tax and VAT, GOSI for every employee, Qiwa for employment contracts, and the bank account the commercial registration must be linked to."),
+            ("Complete the licence", "Meet the regulator's final requirements, including paid-up capital, senior hires, systems and premises, and pay the licence fee. SAMA then issues the licence; at the CMA, the equivalent stage is the commencement-of-business requirements."),
         ]},
         {"type": "prose", "h2": "MISA: the investment licence is now an investment registration", "body": [
             "The Investment Law, Royal Decree M/19, was issued in July 2024, published in the Umm Al-Qura gazette on 16 August 2024 and took effect in February 2025. It replaced the Foreign Investment Law of 2000. Its Implementing Regulations were issued by Ministerial Resolution 1086 dated 08/08/1446H, according to law-firm reporting.",
@@ -244,7 +244,7 @@ PAGES = [
             "A handover file the licensing work builds on directly",
         ]},
         {"type": "faq", "h2": "Common questions", "items": [
-            ("Do foreign fintechs still need a MISA investment licence?", "The Investment Law, in force since February 2025, replaced the investment licence with investment registration and an Investment Registration Certificate that is reconfirmed annually. Foreign-owned fintechs complete it before applying to SAMA, the CMA or the Insurance Authority."),
+            ("Do foreign fintechs still need a MISA investment licence?", "The Investment Law, in force since February 2025, replaced the investment licence with investment registration and an Investment Registration Certificate that is reconfirmed annually. Foreign-owned fintechs must complete it before SAMA, the CMA or the Insurance Authority issues their licence."),
             ("Does a commercial registration still expire?", "No. Since the Commercial Register Law took effect on 3 April 2025, registrations have no expiry date. The company confirms its data annually instead."),
             ("When does a fintech have to join Fatoora Phase 2?", "It depends on revenue. Wave 25 covers taxpayers with revenue above SAR 187,500 in any year from 2022 to 2025, with integration due by 1 February 2027."),
             ("Which legal form should a fintech choose?", "The one your target licence requires. SAMA's BNPL rules require a joint stock company, for example. We confirm the form before anything is filed."),
