@@ -42,6 +42,13 @@ UI = {
 }
 
 
+def minutes(n, lang):
+    """Read-time label; Arabic counted nouns take the plural only for 3 to 10."""
+    if lang == "ar":
+        return f"{n} {'دقائق' if 3 <= n <= 10 else 'دقيقة'} قراءة"
+    return f"{n} {UI[lang]['min']}"
+
+
 def parse(path):
     raw = path.read_text(encoding="utf-8")
     m = re.match(r"^---\s*\n(.*?)\n---\s*\n(.*)$", raw, re.S)

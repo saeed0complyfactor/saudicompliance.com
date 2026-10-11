@@ -647,7 +647,7 @@ def build_insights(lang):
     trail = [(ui["home"], page_url(lang)), (iu["label"], page_url(lang, "insights"))]
     cards = "".join(
         f'<li><a href="{page_url(lang, "insights/" + a["slug"])}"><span class="mc-img">{img(a.get("hero", "riyadh-aerial"), "")}</span>'
-        f'<span class="mc-meta">{esc(a.get("tags", ""))} · {a["minutes"]} {iu["min"]}</span>'
+        f'<span class="mc-meta">{esc(a.get("tags", ""))} · {INS.minutes(a["minutes"], lang)}</span>'
         f'<span class="mc-t">{strip_tags(a.get("h1", a["title"]))}</span><span class="mc-d">{esc(a["description"])}</span></a></li>'
         for a in arts)
     ld = {"@context": "https://schema.org", "@graph": [org_ld(lang), {"@type": "CollectionPage", "name": iu["index_title"], "url": f"{DOMAIN}{page_url(lang, 'insights')}",
@@ -678,7 +678,7 @@ def build_insights(lang):
         alt = (f'<p class="alt-lang"><a href="{page_url(other, slug)}" lang="{HREFLANG[other]}" hreflang="{HREFLANG[other]}">{iu["other_lang"]}</a></p>'
                if other in langs else "")
         meta = (f'<p class="art-meta"><span>{iu["by"]}</span><span>{iu["published"]}: <time datetime="{a.get("date")}">{a.get("date")}</time></span>'
-                f'<span>{iu["updated"]}: <time datetime="{a.get("updated", a.get("date"))}">{a.get("updated", a.get("date"))}</time></span><span>{a["minutes"]} {iu["min"]}</span></p>')
+                f'<span>{iu["updated"]}: <time datetime="{a.get("updated", a.get("date"))}">{a.get("updated", a.get("date"))}</time></span><span>{INS.minutes(a["minutes"], lang)}</span></p>')
         art_ld = {"@type": "Article", "headline": a["title"], "description": a["description"], "inLanguage": HREFLANG[lang],
                   "datePublished": a.get("date"), "dateModified": a.get("updated", a.get("date")),
                   "image": f"{DOMAIN}/static/img/{a.get('hero', 'og')}.webp", "url": f"{DOMAIN}{page_url(lang, slug)}",
