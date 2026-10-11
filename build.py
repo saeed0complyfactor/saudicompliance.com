@@ -28,6 +28,7 @@ WHATSAPP = ""                                # digits only, e.g. "9665XXXXXXXX";
 STREET_ADDRESS = ""                          # Riyadh office street address; empty shows city only
 WEB3FORMS_KEY = "cbe536ca-6b46-40cb-b5d6-71ec02ef63d2"  # same public key as AML Canada (ComplyFactor inbox)
 GA4_ID = ""
+INDEXNOW_KEY = "6ab4c4106b365a3183b4a9dde24d761e"  # served at /<key>.txt; ping IndexNow after publishing
 PARENT = {"name": "ComplyFactor", "url": "https://complyfactor.com"}
 SHOW_PLACEHOLDERS = False                    # True shows a marked note listing missing address/CR/phone (for review builds)
 
@@ -717,6 +718,7 @@ def write(lang, slug, doc):
 
 
 def root_files():
+    (OUT / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY, encoding="utf-8")
     # Root: language chooser that sends visitors to their language.
     (OUT / "index.html").write_text(f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Saudi Compliance</title>

@@ -4,6 +4,7 @@
 !/static/
 !/content/
 !/build.py
+!/indexnow.py
 !/insights.py
 !/content_en.py
 !/content_ar.py
