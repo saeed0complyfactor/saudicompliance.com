@@ -588,6 +588,7 @@ LEGAL = {
         "body": [
             ("Who we are", "Saudi Compliance is a ComplyFactor company with an office in Riyadh. We are the controller of personal data you send us through this website."),
             ("What we collect", "When you use the contact form, we collect your name, work email, company, and what you tell us about your needs. We do not use advertising trackers."),
+            ("Analytics", "We use Google Analytics 4 to see how visitors use this site: pages viewed, approximate location, device and the site that referred you. It sets first-party cookies and never receives what you type into the contact form. Google processes this data, including outside Saudi Arabia. You can block analytics cookies in your browser settings or with Google's opt-out browser add-on."),
             ("Why we use it", "To reply to your enquiry and, if you engage us, to deliver our services. We don't sell personal data or use it for unrelated purposes."),
             ("Legal basis", "We process your data with your consent, which you give by sending the form, and as needed to take steps before entering into a contract with you, as the Personal Data Protection Law (PDPL) permits."),
             ("Who receives it", "Our form provider delivers your message to our inbox, and our ComplyFactor colleagues may assist with your enquiry. Some of these services are outside Saudi Arabia; we transfer data only as the PDPL and its transfer regulations allow."),
