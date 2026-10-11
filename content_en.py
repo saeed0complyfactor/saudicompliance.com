@@ -188,7 +188,7 @@ PAGES = [
     "title": "Fintech Company Setup in Saudi Arabia: MISA Licence & CR",
     "description": "How foreign fintechs set up in Saudi Arabia before applying to SAMA or the CMA: MISA investment licence, commercial registration, legal form and capital.",
     "h1": "Set up the entity your <em>licence</em> needs",
-    "lede": "The regulator application comes after the company. Getting the company wrong, in legal form, capital or activities, is the most common reason a licence plan slips.",
+    "lede": "Apply to the regulator first and incorporate after approval in principle. Getting the company wrong, in legal form, capital or activities, is the most common reason a licence plan slips.",
     "blocks": [
         {"type": "steps", "h2": "The usual sequence for a foreign applicant", "items": [
             ("Confirm the target licence first", "The licence decides the legal form, minimum paid-up capital, Saudization targets and permitted activities. We fix this before anything is filed."),
