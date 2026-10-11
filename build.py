@@ -686,6 +686,10 @@ def build_insights(lang):
                   "mainEntityOfPage": f"{DOMAIN}{page_url(lang, slug)}"}
         ld = {"@context": "https://schema.org", "@graph": [org_ld(lang), art_ld, crumbs_ld(lang, trail)]}
         doc = head(lang, a["title"], a["description"], slug, ld)
+        doc = doc.replace('<meta property="og:type" content="website">',
+                          '<meta property="og:type" content="article">'
+                          f'<meta property="article:published_time" content="{a.get("date")}">'
+                          f'<meta property="article:modified_time" content="{a.get("updated", a.get("date"))}">', 1)
         if other not in langs:  # only one edition: hreflang must not point at a missing page
             doc = re.sub(r'<link rel="alternate" hreflang="[^"]+" href="[^"]+">', "", doc)
         body = f"""<body class="inner article">
