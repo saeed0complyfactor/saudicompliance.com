@@ -3,7 +3,7 @@ title: Saudi AML Law Amendments 2026: What Changed and What to Do
 h1: Saudi AML law amendments 2026: what <em>changed</em> and what to <em>update</em>
 description: Saudi AML law amendments 2026: Royal Decree M/223 changed the AML Law in April and revised rules were published in June. What firms should update now.
 date: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-30
 hero: papers-review
 service: @/compliance-function/
 service_label: AML programme build and MLRO support
@@ -11,7 +11,7 @@ tags: AML, Regulation
 ---
 Saudi Arabia amended its Anti-Money Laundering Law in April 2026 by Royal Decree M/223 dated 27/10/1447H, which approved Council of Ministers Resolution 748. The amendments to the Law deal mainly with enforcement and governance: deportation of convicted non-Saudis, confiscation of disproportionate wealth, a statutory role for the Permanent Committee for Combating Money Laundering (AMLPC) and a new route for issuing the Implementing Regulations. The operational changes came with revised Implementing Regulations, issued by the President of State Security and published in the Umm Al-Qura gazette on 26 June 2026. Pinsent Masons reports that the revised regulations formally recognise e-wallets and add e-money issuance and management to the list of financial activities. It also reports group-wide AML policies and information sharing, and a power to suspend a suspicious transaction for up to seven working days.
 
-For SAMA licensees and CMA-licensed firms, the practical job is the same. Re-run the risk assessment, update beneficial-ownership and wallet onboarding rules, rework the suspicious transaction report (STR) and transaction-suspension process with the Financial Intelligence Unit (FIU), check sanctions screening, and take the revised programme to the board. Saudi Arabia's next FATF mutual evaluation onsite is shown as provisional for November or December 2026 in the FATF assessment calendar, so the window to do this before assessors arrive is short.
+For SAMA licensees and CMA-licensed firms, the practical job is the same. Re-run the risk assessment, update beneficial-ownership and wallet onboarding rules, rework the suspicious transaction report (STR) and transaction-suspension process with the Financial Intelligence Unit (FIU), check sanctions screening, and take the revised programme to the board. Saudi Arabia's next FATF mutual evaluation onsite is shown as a possible November 2026 visit in the FATF Global Assessment Calendar, so the window to do this before assessors arrive is short.
 
 > **Key takeaways** Royal Decree M/223 amended the AML Law with effect from about 18 April 2026. Revised Implementing Regulations were published in Umm Al-Qura on 26 June 2026 under Decision No. 266507 of the President of State Security, and their detailed content comes from law-firm and vendor reporting that we have not checked against the attached regulation text. CMA firms apply the Law directly, and SAMA licensees still need a Saudi-national Chief Compliance Officer (CCO) and Director of AML/CTF.
 
@@ -104,10 +104,10 @@ Saudi Arabia is a FATF member and a MENAFATF member. Its last mutual evaluation 
 |---|---|---|
 | Last mutual evaluation adopted | 2018 | Enhanced follow-up |
 | Follow-up re-rating | 2020 | Published by FATF |
-| 5th-round onsite visit | November or December 2026 | Provisional, per the FATF assessment calendar |
-| Plenary discussion | Around June 2027 | Provisional |
+| 5th-round onsite visit | November 2026 | Possible, per the FATF Global Assessment Calendar |
+| Plenary discussion | June 2027 | Possible, per the same calendar |
 
-The AMLPC has a mutual evaluation section on its website and has run workshops to prepare for the assessment with FATF and MENAFATF. The amended Law and the June regulations arrive a few months before the onsite, so expect supervisors to ask how firms have applied them.
+The AMLPC has a mutual evaluation section on its website and has run workshops to prepare for the assessment with FATF and MENAFATF. Our [guide to Saudi Arabia's FATF mutual evaluation](@/insights/fatf-mutual-evaluation-saudi-arabia/) covers what the 2018 report found and the evidence firms should have ready. The amended Law and the June regulations arrive a few months before the onsite, so expect supervisors to ask how firms have applied them.
 
 For an individual firm, the useful question is what you could show a supervisor in the coming months. A board-approved programme updated after June 2026, with trained staff and some evidence that the changes work, is far easier to defend than a 2017 policy with a cover note promising an update.
 
@@ -143,7 +143,7 @@ The FIU is the General Directorate of Financial Intelligence (SAFIU), formerly t
 
 SAMA's Rules for the Implementation of Targeted Financial Sanctions (circular 472035766, December 2025) set the standard for SAMA licensees. They cover the UN Security Council lists and the national lists, including those of the Permanent Committee for Counter-Terrorism under the Presidency of State Security, which maintains the National Terrorism List. The Rules require screening before an account or relationship is opened (e-wallets included), before outgoing payments are executed and immediately after any list update. A confirmed match must be frozen without delay, which the Rules define as within hours, and without waiting for internal approvals. SAMA must then be notified.
 
-SAMA's circular of 1 October 2026 (482028988) to payment and finance licensees deals with integration with the Security Council Resolutions Notification System. Check whether it applies to you and record how and when you connected.
+SAMA's circular of 1 October 2026 (482028988), addressed to banking, finance, payments, money exchange and credit bureau licensees, deals with integration with the Security Council Resolutions Notification System. Check whether it applies to you and record how and when you connected.
 
 CMA firms fall outside SAMA's Rules, so confirm with the CMA how designations reach you and document the answer. Whatever your regulator, test that a confirmed match leads to an immediate freeze and a report.
 
@@ -183,3 +183,4 @@ Saudi Compliance builds and updates AML programmes for SAMA and CMA licensees an
 - [CMA: FinTech Experimental Permit Instructions](https://cma.gov.sa/en/RulesRegulations/Regulations/Documents/FinTech_en.pdf)
 - [CMA: Draft amendments to the Capital Market Institutions Regulations (CMA_N_4054)](https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_4054.aspx)
 - [FATF: Saudi Arabia country page](https://www.fatf-gafi.org/en/countries/detail/Saudi-Arabia.html)
+- [FATF: Global Assessment Calendar](https://www.fatf-gafi.org/en/calendars/assessments.html)

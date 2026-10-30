@@ -32,6 +32,7 @@ Regulatory compliance advisory in Riyadh for fintechs: incorporation, SAMA and C
 - [Money exchange licence](https://saudicompliance.com/en/licensing/money-exchange-licence/): SAMA money exchange licence: SAR 2m capital for currency dealing, SAR 7m with cash import and export, fees, legal forms and no new money-transfer licences.
 
 ## Guides
+- [FATF Mutual Evaluation Saudi Arabia 2026: Fintech Prep Guide](https://saudicompliance.com/en/insights/fatf-mutual-evaluation-saudi-arabia/): FATF mutual evaluation of Saudi Arabia: onsite provisionally November 2026, plenary June 2027. What the 2018 report found and what fintechs need ready.
 - [Applying for a SAMA Open Banking Licence: File and Pitfalls](https://saudicompliance.com/en/insights/apply-open-banking-licence-saudi-arabia/): Applying for a SAMA open banking licence: SAR 500,000 (AIS) or SAR 1m (PIS) capital, the Appendix A file, and what SAMA's published texts leave open.
 - [Foreign Fintech Market Entry in Saudi Arabia: Licence First](https://saudicompliance.com/en/insights/foreign-fintech-entry-saudi-arabia/): Foreign fintech market entry in Saudi Arabia: fix the licence first, because SAMA approves in principle before you incorporate in the form it requires.
 - [How to Apply for a SAMA Payment Licence: Steps and Timeline](https://saudicompliance.com/en/insights/how-to-get-sama-payment-licence/): To apply for a SAMA payment licence, pick a PI or EMI category (SAR 1m to 10m capital), email the file, and SAMA decides within 90 days of completeness.

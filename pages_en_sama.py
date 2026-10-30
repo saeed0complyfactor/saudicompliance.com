@@ -738,6 +738,7 @@ PAGES = [
         {"type": "prose", "h2": "Senior roles and supervision", "body": [
             "Money changers are within SAMA's Requirements for Appointments to Senior Positions. Appendix 5 lists the money changer positions that need SAMA's written non-objection, and Article 4 reserves roles including the Chief Compliance Officer and AML/CTF Director for Saudi nationals. The English page of those requirements states it is not the latest version, so check against the Arabic. See <a href=\"@/compliance-function/\">compliance function</a>.",
             "SAMA continues to revoke money exchange licences, including revocations announced on 7 July 2026. Ongoing AML, reporting and prudential compliance is what keeps the licence.",
+            "SAMA is still licensing new money changers. On 13 October 2026 it licensed Trafileks Company for money changing, covering buying, selling and exchanging foreign currencies and importing and exporting currencies, and said this brought the number of licensed money changers to 64.",
         ]},
         {"type": "faq", "h2": "Common questions", "items": [
             ("Can a new company get a money-transfer licence?", "Not under the money exchange rules. Only firms licensed when the 2020 Rules were issued may transfer money. For account-based transfers, look at the <a href=\"@/licensing/payment-institution-licence/\">payment institution</a> or <a href=\"@/licensing/e-money-licence/\">e-money</a> licences."),
@@ -753,6 +754,7 @@ PAGES = [
         ("SAMA Rulebook: Money exchange eligibility requirements", "https://rulebook.sama.gov.sa/en/node/10327"),
         ("SAMA Rulebook: Money exchange sector", "https://rulebook.sama.gov.sa/en/money-exchange-sector-0"),
         ("SAMA: Licensed money exchangers", "https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/Licensed-Money-Exchangers-Centers.aspx"),
+        ("SAMA news: SAMA licenses Trafileks Company to conduct money changing activities, 13 October 2026", "https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1172.aspx"),
         ("SAMA Rulebook: Requirements for Appointments to Senior Positions (Arabic, current version)", "https://rulebook.sama.gov.sa/ar/node/1997"),
     ],
     "related": ["payment-institution-licence", "licensing", "compliance-function"],
