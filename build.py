@@ -29,6 +29,7 @@ STREET_ADDRESS = ""                          # Riyadh office street address; emp
 WEB3FORMS_KEY = "cbe536ca-6b46-40cb-b5d6-71ec02ef63d2"  # same public key as AML Canada (ComplyFactor inbox)
 GA4_ID = "G-5KEVFW2BEF"
 INDEXNOW_KEY = "6ab4c4106b365a3183b4a9dde24d761e"  # served at /<key>.txt; ping IndexNow after publishing
+LINKEDIN = "https://www.linkedin.com/company/saudicompliance/"
 PARENT = {"name": "ComplyFactor", "url": "https://complyfactor.com"}
 SHOW_PLACEHOLDERS = False                    # True shows a marked note listing missing address/CR/phone (for review builds)
 
@@ -204,6 +205,7 @@ def footer(lang):
     contact = f'<a href="mailto:{EMAIL}">{EMAIL}</a>'
     if PHONE_DISPLAY:
         contact += f'<a href="tel:{PHONE_TEL}" dir="ltr">{PHONE_DISPLAY}</a>'
+    contact += f'<a href="{LINKEDIN}" rel="me noopener" dir="ltr">LinkedIn</a>'
     addr = f"{STREET_ADDRESS}, {ui['office']}" if STREET_ADDRESS else ui["office"]
     ph = placeholder_html() if SHOW_PLACEHOLDERS else ""
     return f"""<footer class="footer">
@@ -275,6 +277,7 @@ def org_ld(lang):
         "address": {"@type": "PostalAddress", "addressLocality": "Riyadh", "addressCountry": "SA",
                     **({"streetAddress": STREET_ADDRESS} if STREET_ADDRESS else {})},
         "parentOrganization": {"@type": "Organization", "name": PARENT["name"], "url": PARENT["url"]},
+        "sameAs": [LINKEDIN],
         "knowsAbout": ["SAMA payment institution licence", "CMA FinTech Experimental Permit", "AML/CFT compliance",
                        "Saudi Personal Data Protection Law", "BNPL licensing", "Open banking licensing"],
     }
