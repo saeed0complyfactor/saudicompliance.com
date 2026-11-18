@@ -189,8 +189,8 @@ PAGES = [
     "slug": "licensing/e-money-licence",
     "stage": 1,
     "hero": "riyadh-night",
-    "title": "SAMA E-Money Licence: Micro vs Major EMI (2026 Guide)",
-    "description": "SAMA e-money licence for wallets: Micro EMI SAR 2m and Major EMI SAR 10m capital, per-user limits, safeguarding, JSC form and the 90-day decision.",
+    "title": "SAMA Electronic Money Licence: Micro vs Major EMI 2026",
+    "description": "SAMA electronic money licence (EMI) for wallets: Micro EMI SAR 2m and Major EMI SAR 10m capital, per-user limits, safeguarding and the 90-day decision.",
     "h1": "E-money institution <em>licence</em>",
     "lede": "Issuing electronic money in Saudi Arabia, including e-wallets, needs a SAMA e-money institution (EMI) licence under the Payments Implementing Regulations. A Micro EMI needs SAR 2 million of capital and a Major EMI SAR 10 million, and both must be joint stock companies.",
     "blocks": [
@@ -692,8 +692,8 @@ PAGES = [
     "slug": "licensing/money-exchange-licence",
     "stage": 1,
     "hero": "riyadh-aerial",
-    "title": "Money Exchange Licence Saudi Arabia: SAMA Rules & Capital",
-    "description": "SAMA money exchange licence: SAR 2m capital for currency dealing, SAR 7m with cash import and export, fees, legal forms and no new money-transfer licences.",
+    "title": "SAMA Money Exchange Licence: Request, Capital & Rules",
+    "description": "SAMA money exchange licence request: SAR 2m capital for currency dealing, SAR 7m with cash import and export, fees, and no new money-transfer licences.",
     "h1": "Money exchange <em>licence</em>",
     "lede": "Currency exchange in Saudi Arabia is licensed by SAMA under the Rules Regulating Money Changing Business of 11 July 2020. A new money changer can be licensed to deal in foreign currency, with SAR 2 million of capital, and to import and export cash, with SAR 7 million. SAMA no longer issues new money-transfer licences under these rules.",
     "blocks": [
@@ -737,7 +737,7 @@ PAGES = [
         ]},
         {"type": "prose", "h2": "Senior roles and supervision", "body": [
             "Money changers are within SAMA's Requirements for Appointments to Senior Positions. Appendix 5 lists the money changer positions that need SAMA's written non-objection, and Article 4 reserves roles including the Chief Compliance Officer and AML/CTF Director for Saudi nationals. The English page of those requirements states it is not the latest version, so check against the Arabic. See <a href=\"@/compliance-function/\">compliance function</a>.",
-            "SAMA continues to revoke money exchange licences, including revocations announced on 7 July 2026. Ongoing AML, reporting and prudential compliance is what keeps the licence.",
+            "SAMA continues to revoke money exchange licences, including revocations announced on 7 July 2026 and, on 9 November 2026, the licence of Ahmed Ibrahim Suleiman Al-Buti Establishment, revoked under paragraph (b/7) of Article 34 of the Rules Regulating Money Changing Business. Ongoing AML, reporting and prudential compliance is what keeps the licence.",
             "SAMA is still licensing new money changers. On 13 October 2026 it licensed Trafileks Company for money changing, covering buying, selling and exchanging foreign currencies and importing and exporting currencies, and said this brought the number of licensed money changers to 64.",
         ]},
         {"type": "faq", "h2": "Common questions", "items": [
@@ -755,6 +755,7 @@ PAGES = [
         ("SAMA Rulebook: Money exchange sector", "https://rulebook.sama.gov.sa/en/money-exchange-sector-0"),
         ("SAMA: Licensed money exchangers", "https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/Licensed-Money-Exchangers-Centers.aspx"),
         ("SAMA news: SAMA licenses Trafileks Company to conduct money changing activities, 13 October 2026", "https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1172.aspx"),
+        ("SAMA news: SAMA revokes licence of Ahmed Ibrahim Suleiman Al-Buti Establishment for Money Exchange, 9 November 2026", "https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1173.aspx"),
         ("SAMA Rulebook: Requirements for Appointments to Senior Positions (Arabic, current version)", "https://rulebook.sama.gov.sa/ar/node/1997"),
     ],
     "related": ["payment-institution-licence", "licensing", "compliance-function"],
