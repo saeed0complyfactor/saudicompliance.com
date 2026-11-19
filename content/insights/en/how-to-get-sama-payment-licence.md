@@ -39,7 +39,7 @@ Source: Implementing Regulations, Articles 42 to 46 and 97. SAMA may raise the p
 
 ### Payment institution or e-money institution
 
-The payment institution categories exclude e-money issuance, so a wallet that holds customer balances needs an [e-money institution licence](@/licensing/e-money-licence/). A Micro EMI becomes Major as soon as it passes any one Micro limit, and for a consumer wallet the SAR 20,000 per-user holding cap can be the first to bite.
+The payment institution categories exclude e-money issuance, so a wallet that holds customer balances needs an [e-money institution licence](@/licensing/e-money-licence/). Our guide to [e-money vs payment institution licences](@/insights/e-money-vs-payment-institution-licence-saudi-arabia/) applies that test product by product. A Micro EMI becomes Major as soon as it passes any one Micro limit, and for a consumer wallet the SAR 20,000 per-user holding cap can be the first to bite.
 
 Micro is a domestic category. A remittance corridor, a payout product for people abroad or a merchant base outside Saudi Arabia rules it out. The regulations define a Major PI by volume above SAR 10 million a month, so a low-volume business that needs cross-border services should confirm its category with SAMA before filing. The [payment institution licence](@/licensing/payment-institution-licence/) page covers the Micro and Major choice in more detail.
 
