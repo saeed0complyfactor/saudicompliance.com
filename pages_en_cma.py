@@ -243,6 +243,7 @@ PAGES = [
             "Meet ongoing capital adequacy under the CMA Prudential Rules, which sit alongside the entry capital in Art 6(g).",
             "Keep the CEO, CFO, Compliance Officer and MLRO (and IT Officer where required) registered at all times, and file registration changes through the portal.",
             "Make or approve every securities advertisement aimed at people in the Kingdom (SBR Art 17).",
+            "If you run or host trading algorithms, meet the order-to-execution cap and the Article 54 controls set out in the CMA circular of 29 October 2026. See <a href=\"@/insights/cma-algorithmic-trading-rules-saudi-arabia/\">our guide to the CMA algorithmic trading rules</a>.",
             "Run KYC and account opening under the Investment Accounts Instructions, most recently amended on 6 January 2026, and the KYC forms in the CMIR annexes.",
             "Comply with the AML Law and counter-terrorist financing law directly; the CMA's own AML rules were rescinded in 2018. See <a href=\"@/compliance-function/\">the compliance function</a>.",
             "Follow the client money rules, including the client-money returns under Art 77 amended in 2024. Breaches of the Securities Business Regulations are offences under Article 60 of the Capital Market Law.",
