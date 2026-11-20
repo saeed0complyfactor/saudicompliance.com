@@ -308,7 +308,7 @@ PAGES = [
         ]},
         {"type": "prose", "h2": "People: Saudization and senior roles", "body": [
             "BNPL companies start at 50% Saudi staff across all departments and levels and add 5% a year until they reach 75%. Non-Saudis in control functions need SAMA's non-objection. Separately, the Senior Positions Requirements reserve the Chief Compliance Officer and AML/CTF Director roles for Saudi nationals, and those appointments need SAMA's written non-objection. The English text of those requirements says it is not the latest version, so use the Arabic. An outsourced MLRO does not replace either role. See <a href=\"@/compliance-function/\">compliance function</a>.",
-            "SAMA continues to license BNPL companies. Its news releases announced new BNPL licences in April, May, July and August 2026.",
+            "SAMA continues to license BNPL companies. Its news releases announced new BNPL licences in April, May, July and August 2026. For counts by activity, see <a href=\"@/insights/sama-licensed-finance-companies-saudi-arabia/\">what SAMA's finance register shows</a>.",
         ]},
         {"type": "faq", "h2": "Common questions", "items": [
             ("Is BNPL a payment licence or a finance licence?", "A finance licence. BNPL is a finance activity under the Finance Companies Control Law, with its own rules. A BNPL provider that also moves money for merchants should check whether that flow needs a <a href=\"@/licensing/payment-institution-licence/\">payment institution licence</a> as well."),
