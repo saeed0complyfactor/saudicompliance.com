@@ -3,7 +3,7 @@ title: E-Money vs Payment Institution Licence in Saudi Arabia
 h1: E-money or payment institution: <em>which licence</em> does your wallet need?
 description: A Saudi wallet needs an e-money licence if users keep a balance to spend with others; a payment institution licence covers money you only move.
 date: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-21
 hero: glass-tower
 service: @/licensing/e-money-licence/
 service_label: E-money licence support
@@ -83,7 +83,7 @@ The legal form row has the longest lead time. Only a Micro PI may be a limited l
 An EMI licence comes with product rules in Article 69 that a PI does not face. Build them into the design before the business plan goes to SAMA.
 
 - E-money must be issued at par value on receipt of funds.
-- No interest, and no "other benefit", linked to how long the customer holds e-money. A reward that grows with how long the balance is held falls foul of this; check any cashback or points scheme against it.
+- No interest, and no other benefit, linked to how long the e-money is held (Article 69). The Arabic text, which prevails, words this as the length of time the EMI holds the e-money. A reward that grows with how long the balance is held falls foul of this; check any cashback or points scheme against it.
 - No overdraft from the EMI itself. Both the English and Arabic texts let an EMI partner with a bank or other licensed entity that provides the overdraft, after SAMA's prior approval.
 - Safeguarded funds may not be used for any other purpose, including lending.
 - Customers may redeem their balance at any time, at par. The contract must state redemption conditions and fees clearly, fees must be proportionate to your actual costs, and the remaining balance must be redeemed when the contract ends.
