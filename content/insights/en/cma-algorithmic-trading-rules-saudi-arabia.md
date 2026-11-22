@@ -3,7 +3,7 @@ title: CMA Algorithmic Trading Rules: The 20-Order Cap Explained
 h1: CMA algorithmic trading rules: <em>the 20-order cap</em> and Article 54
 description: CMA algorithmic trading rules: a 20 order-to-execution ratio per trader and security on Main Market securities from 1 Nov 2026, with firms given to 31 Dec.
 date: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-22
 draft: false
 hero: tower-bw
 service: @/licensing/capital-market-institution-licence/
@@ -62,12 +62,12 @@ On the market-making deferral, the circular links the later date to completing t
 
 ## Article 54 and the four control requirements
 
-Article 54 of the Capital Market Institutions Regulations is a short, general article. Paragraph (a) requires a CMI to establish and maintain systems and controls appropriate to its business, sufficient to comply with the Capital Market Law and its Implementing Regulations. Paragraph (b) makes the governing body primarily responsible for compliance. The article itself does not mention algorithmic trading. The circular supplies the detail, saying compliance with Article 54 includes:
+Article 54 of the Capital Market Institutions Regulations is a short, general article. Paragraph (a) requires a CMI to establish and maintain systems and controls appropriate to its business, sufficient to comply with the Capital Market Law and its Implementing Regulations. Paragraph (b) makes the governing body primarily responsible for compliance with the Law and its Implementing Regulations. The article itself does not mention algorithmic trading. The circular supplies the detail, saying compliance with Article 54 includes:
 
-1. Systems and supervisory procedures that keep algorithmic trading sound and efficient, with no adverse effect on the market and no breach of the Capital Market Law or its Implementing Regulations.
-2. Defined methodologies to develop and test systems, algorithms and strategies before they are used, so they do not disrupt trading and keep working in different market conditions, plus sufficient and continuous testing to confirm they are reliable, fit for purpose and accurate.
+1. Systems and control procedures that keep algorithmic trading sound and efficient, with no adverse effect on the market and no breach of the Capital Market Law or its Implementing Regulations.
+2. Defined methodologies to develop and test systems, algorithms and strategies before they are used, so they do not disrupt trading and keep working in different market conditions, plus sufficient and continuous testing to confirm they are reliable and fit for purpose and that the algorithms' results are accurate.
 3. Policies and systems to oversee algorithmic trading carried out through the CMI's systems: effective monitoring of entered orders, alerts and reports, and the ability to switch off the algorithmic trading system or an individual algorithm when necessary.
-4. Records of all algorithmic trading data and information, its systems, policies, procedures, strategies and controls, and the development and testing documents, kept for ten years after they stop being used or are amended. The CMA and Saudi Tadawul Company can ask for any of it.
+4. Records of all algorithmic trading data and information, its systems, policies, procedures, strategies and controls, and the development and testing documents, kept for ten years after they stop being used or are amended. The CMI must provide the CMA and Saudi Tadawul Company with any information or data on algorithmic trading when they ask.
 
 Other articles in the same part of the Regulations are worth reading alongside. Article 55(c) already requires a CMI that deals as agent to have policies and systems to monitor clients' trading conduct. Article 56(a) requires the governing body to review systems and controls at least once every three years. The Article does not require an outside reviewer, but an [independent review](@/audit-review/) can give the governing body evidence for it. Robo-advisers have their own algorithm rules in Article 55(e), including annual testing by an independent party; the algorithmic trading circular does not mention robo-advisory.
 
@@ -90,7 +90,7 @@ Comments on the draft closed on 24 October 2026 (13/05/1448H). If your models or
 
 ## Who is affected in practice
 
-The circular is addressed to all CMIs. Item 3 of the Article 54 list covers algorithmic trading carried out through a CMI's own systems; items 1, 2 and 4 are not limited that way. In practice the cap bites hardest on firms with a dealing licence whose registered traders carry algorithmic order flow on Main Market securities: proprietary desks, firms offering clients algorithmic or automated order entry, and market makers from 1 January 2027.
+The circular is addressed to all CMIs. Item 3 of the Article 54 list covers algorithmic trading carried out through a CMI's systems; items 1, 2 and 4 are not limited that way. In practice the cap bites hardest on firms with a dealing licence whose registered traders carry algorithmic order flow on Main Market securities: proprietary desks, firms offering clients algorithmic or automated order entry, and market makers from 1 January 2027.
 
 Because the ratio is measured per registered trader and the definition covers trading for both the Exchange member and its clients, client algorithmic flow that runs through your systems may count toward a trader's ratio on our reading. Confirm how your order routing maps to registered traders with the Exchange before you rely on any allocation.
 

@@ -32,6 +32,7 @@ Regulatory compliance advisory in Riyadh for fintechs: incorporation, SAMA and C
 - [Money exchange licence](https://saudicompliance.com/en/licensing/money-exchange-licence/): SAMA money exchange licence request: SAR 2m capital for currency dealing, SAR 7m with cash import and export, fees, and no new money-transfer licences.
 
 ## Guides
+- [Saudi Commercial Transactions Law 2026: A Fintech Guide](https://saudicompliance.com/en/insights/saudi-commercial-transactions-law-2026/): Saudi Commercial Transactions Law: published 13 Nov 2026, in force 180 days later. What it means for fintech contracts, guarantees and Arabic records.
 - [CMA Algorithmic Trading Rules: The 20-Order Cap Explained](https://saudicompliance.com/en/insights/cma-algorithmic-trading-rules-saudi-arabia/): CMA algorithmic trading rules: a 20 order-to-execution ratio per trader and security on Main Market securities from 1 Nov 2026, with firms given to 31 Dec.
 - [CMA Earnings Call Rules for Saudi Listed Companies](https://saudicompliance.com/en/insights/cma-earnings-calls-rules-saudi-arabia/): From FY2026 annual statements, CMA rules require Main Market firms to hold at least two earnings calls a year, within five business days of publication.
 - [CMA IPO Rules 2026: Underwriting, Book-Building, Forecasts](https://saudicompliance.com/en/insights/cma-ipo-rules-2026-saudi-arabia/): CMA IPO rules 2026: the underwriting agreement must bind before book-building, orders need cash or cash equivalents, and prospectuses need forecasts.

@@ -3,7 +3,7 @@ title: Foreign Fintech Market Entry in Saudi Arabia: Licence First
 h1: Entering Saudi Arabia as a <em>foreign fintech</em>
 description: Foreign fintech market entry in Saudi Arabia: fix the licence first, because SAMA approves in principle before you incorporate in the form it requires.
 date: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-22
 hero: riyadh-aerial
 service: @/incorporation/
 service_label: Incorporation and market entry support
@@ -33,7 +33,7 @@ The Investment Law, Royal Decree M/19, replaced the Foreign Investment Law of 20
 
 ## Fintech company formation in KSA: the Ministry of Commerce steps
 
-According to law-firm summaries, the Companies Law (Royal Decree M/132), in force since 19 January 2023, introduced the Simplified Joint Stock Company (SJSC), and the Commercial Register Law (Royal Decree M/83), in force since 3 April 2025, made the CR number the national unified number, replaced CR expiry with an annual data confirmation and requires a linked bank account. Draft the articles of association and CR activities around the regulated activity, because SAMA's file includes draft articles and the CMA's checklist includes a Ministry of Commerce trade-name reservation; our [incorporation](@/incorporation/) page sets out each step.
+According to law-firm summaries, the Companies Law (Royal Decree M/132), in force since 19 January 2023, introduced the Simplified Joint Stock Company (SJSC), and the Commercial Register Law (Royal Decree M/83), in force since 3 April 2025, made the CR number the national unified number, replaced CR expiry with an annual data confirmation and requires a linked bank account. Draft the articles of association and CR activities around the regulated activity, because SAMA's file includes draft articles and the CMA's checklist includes a Ministry of Commerce trade-name reservation; our [incorporation](@/incorporation/) page sets out each step. A new Commercial Transactions Law, published in Umm Al-Qura on 13 November 2026, takes effect 180 days after publication and treats every company formed under the Companies Law as a merchant; our [Commercial Transactions Law guide](@/insights/saudi-commercial-transactions-law-2026/) covers what it changes.
 
 ## The regulator's rules set legal form and capital
 

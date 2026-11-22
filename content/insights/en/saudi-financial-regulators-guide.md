@@ -3,7 +3,7 @@ title: Saudi Arabia Financial Regulators: Who Licenses What (2026)
 h1: Saudi Arabia's financial regulators: who <em>licenses</em> what (2026)
 description: Saudi Arabia financial regulators explained: SAMA licenses payments, lending and banks, the CMA securities, the IA insurance. No crypto licence exists.
 date: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-22
 hero: riyadh-aerial
 service: @/licensing/
 service_label: Licence selection and application support
@@ -149,7 +149,7 @@ SAMA licensees follow SAMA's [AML/CTF Guide](https://rulebook.sama.gov.sa/en/gui
 
 ## MISA, the Ministry of Commerce, ZATCA and HRSD handle set-up and operations
 
-These bodies handle company set-up, tax and staffing, and a sector licence application depends on them. A foreign-owned fintech normally registers with MISA before obtaining a sector licence, and SAMA's sandbox requires accepted foreign innovators to register with MISA and the Ministry of Commerce.
+These bodies handle company set-up, tax and staffing, and a sector licence application depends on them. A foreign-owned fintech normally registers with MISA before obtaining a sector licence, and SAMA's sandbox requires accepted foreign innovators to register with MISA and the Ministry of Commerce. The Minister of Commerce is also due to issue the Accounting Records Regulation under the new [Commercial Transactions Law](@/insights/saudi-commercial-transactions-law-2026/), published on 13 November 2026.
 
 | Body | What it handles | Main laws |
 |---|---|---|
