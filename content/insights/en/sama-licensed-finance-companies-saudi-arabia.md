@@ -1,9 +1,9 @@
 ---
 title: Licensed Finance and BNPL Companies in Saudi Arabia, 2026
 h1: What SAMA's <em>register</em> shows about finance licences in 2025 and 2026
-description: SAMA lists 78 licensed finance companies, up from 62 at end-2024. BNPL and consumer microfinance took 15 of 22 new licences. Register data, Nov 2026.
+description: SAMA put licensed finance companies at 80 on 22 Nov 2026, up from 62 at end-2024. BNPL and consumer microfinance led new licences. Register data.
 date: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-23
 hero: papers-review
 service: @/licensing/finance-company-licence/
 service_label: Finance company licence support
@@ -11,7 +11,11 @@ tags: SAMA licensing, Market data
 ---
 As of 20 November 2026, [SAMA's register of licensed finance entities](https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/FinanceLicencedEntities.aspx) lists 78 finance companies and 13 finance support companies. SAMA's own announcements put the number of licensed finance companies at 62 on 31 December 2024 and 78 on 30 August 2026. Of the 22 finance company licences SAMA announced between January 2025 and November 2026, 15 went to buy now, pay later (BNPL) and consumer microfinance firms.
 
-> **Key takeaways** Nine companies on the register hold BNPL as an activity, five of them as their only activity. Fifteen list debt-based crowdfunding, and 13 list one of the two consumer microfinance activities. SAMA announced seven finance aggregation licences over the same period, and the register now lists 11 aggregators. The newest finance company licence announcement is dated 30 August 2026, and no other appeared on SAMA's news page up to 20 November 2026.
+> **Key takeaways** Nine companies on the register hold BNPL as an activity, five of them as their only activity. Fifteen list debt-based crowdfunding, and 13 list one of the two consumer microfinance activities. SAMA announced seven finance aggregation licences over the same period, and the register now lists 11 aggregators. No finance company licence was announced between 30 August and 22 November 2026, when SAMA announced two (see the update below).
+
+## Update, 23 November 2026
+
+On 22 November 2026 SAMA announced two more finance company licences. It [licensed Neo](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1174.aspx) for consumer microfinance through financial technology, putting the total at 79, and then [licensed Izdihar Financing Company](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1175.aspx) for SME finance, putting it at 80. The Arabic releases give the same totals. When we checked on 23 November 2026, the Finance register still showed 91 entries and did not yet list either company. The tables and counts below are our 20 November 2026 snapshot and cover announcements up to that date.
 
 ## How we counted
 
@@ -89,7 +93,7 @@ Some releases also give the number of companies in one activity, which lets us t
 These points are our reading of SAMA's data. SAMA's licence releases do not comment on its licensing pipeline.
 
 1. Consumer credit at the point of sale is where SAMA has been licensing. BNPL and the consumer microfinance activities took 15 of the 22 licences. Their capital tiers are SAR 5 million for BNPL only, and SAR 10 million or SAR 20 million for consumer microfinance, depending on whether the company uses financial technology only. A new BNPL entrant would join nine licensed BNPL providers, four of which are licensed for other finance activities as well. Capital follows the highest figure, so on our reading of Article 8 a company planning BNPL plus consumer microfinance (outside the financial technology only tier) should budget for SAR 20 million rather than the SAR 5 million BNPL-only figure, unless SAMA sets a different figure.
-2. SAMA announced about one finance company licence a month from January 2025 to August 2026. As of 20 November 2026 it has announced none since 30 August 2026, the longest gap since January 2025. Do not build a launch plan on a fixed approval date. The [BNPL licence](@/licensing/bnpl-licence/) page sets out the application steps.
+2. SAMA announced about one finance company licence a month from January 2025 to August 2026. From 30 August to 22 November 2026 it announced none, the longest gap since January 2025, before licensing Neo and Izdihar on the same day. Do not build a launch plan on a fixed approval date. The [BNPL licence](@/licensing/bnpl-licence/) page sets out the application steps.
 3. Aggregation is the main route for firms that want to sit between lenders and borrowers without lending themselves. Eleven aggregators are licensed, and SAMA announced seven of them from March 2025 onwards.
 4. Few new debt crowdfunding licences have been announced. SAMA's own count rose from 12 to 14 by November 2025, and the register now lists 15, but we found only two new debt crowdfunding licences announced from January 2025 to November 2026.
 5. Licences end as well as begin. A partner, lender or merchant counterparty you rely on today may leave the register, so check it at onboarding and again at each contract renewal.
@@ -101,7 +105,7 @@ These points are our reading of SAMA's data. SAMA's licence releases do not comm
 - If your product overlaps with BNPL, consumer microfinance or aggregation, filter SAMA's Finance register by that activity, look at the licensed firms and work out how your model differs before you file.
 - Recheck the register before any regulator meeting. We will compare our 20 November 2026 snapshot with later ones and update this guide when the count changes.
 
-For help choosing the activity and preparing the file, Saudi Compliance works with lenders and lending platforms through its [finance company licence](@/licensing/finance-company-licence/) support. For the wider map of SAMA licences, see the [licensing overview](@/licensing/).
+For help choosing the activity and preparing the file, Saudi Compliance works with lenders and lending platforms through its [finance company licence](@/licensing/finance-company-licence/) support. For the wider map of SAMA licences, see the [licensing overview](@/licensing/), and for SAMA's bank register, our analysis of [licensed digital banks](@/insights/licensed-digital-banks-saudi-arabia/).
 
 ## Data current to 20 November 2026
 
@@ -143,3 +147,5 @@ The register and the totals above are SAMA's published data as of 20 November 20
 - [SAMA: Mansat Hima for Financing, debt-based crowdfunding (28 July 2026)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1162.aspx)
 - [SAMA: Manasat Wasl, finance aggregation (6 August 2026)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1164.aspx)
 - [SAMA: Jil Aldaf Alajil, BNPL (30 August 2026)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1167.aspx)
+- [SAMA: Neo, consumer microfinance through financial technology (22 November 2026)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1174.aspx)
+- [SAMA: Izdihar Financing Company, SME finance (22 November 2026)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1175.aspx)

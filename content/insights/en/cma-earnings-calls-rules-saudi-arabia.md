@@ -3,7 +3,7 @@ title: CMA Earnings Call Rules for Saudi Listed Companies
 h1: CMA earnings calls: <em>at least two a year</em> for every Main Market company
 description: From FY2026 annual statements, CMA rules require Main Market firms to hold at least two earnings calls a year, within five business days of publication.
 date: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-23
 draft: false
 hero: faisaliyah
 service: @/ongoing-compliance/
