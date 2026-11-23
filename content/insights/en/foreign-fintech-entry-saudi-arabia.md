@@ -3,7 +3,7 @@ title: Foreign Fintech Market Entry in Saudi Arabia: Licence First
 h1: Entering Saudi Arabia as a <em>foreign fintech</em>
 description: Foreign fintech market entry in Saudi Arabia: fix the licence first, because SAMA approves in principle before you incorporate in the form it requires.
 date: 2026-10-11
-updated: 2026-11-22
+updated: 2026-11-23
 hero: riyadh-aerial
 service: @/incorporation/
 service_label: Incorporation and market entry support
@@ -29,9 +29,9 @@ Test your scoping early. Fintech Saudi, a joint SAMA and CMA initiative, runs 30
 
 ## MISA registration has replaced the MISA licence for fintechs
 
-The Investment Law, Royal Decree M/19, replaced the Foreign Investment Law of 2000 and took effect in February 2025, and Baker McKenzie and Clyde & Co report that its Implementing Regulations were issued by Ministerial Resolution 1086 dated 08/08/1446H. The old MISA licence is now an investment registration, reconfirmed every year, which foreign-owned fintechs complete before a SAMA, CMA or Insurance Authority licence is issued; our [incorporation](@/incorporation/) page covers the detail, including the open questions for GCC shareholders.
+The Investment Law, Royal Decree M/19, replaced the Foreign Investment Law of 2000 and took effect in February 2025, and Baker McKenzie and Clyde & Co report that its Implementing Regulations were issued by Ministerial Resolution 1086 dated 08/08/1446H. The old MISA licence is now an investment registration, reconfirmed every year, which foreign-owned fintechs complete before a SAMA, CMA or Insurance Authority licence is issued; our [fintech company setup in Saudi Arabia](@/incorporation/) page covers the detail, including the open questions for GCC shareholders.
 
-## Fintech company formation in KSA: the Ministry of Commerce steps
+## The Ministry of Commerce steps, in brief
 
 According to law-firm summaries, the Companies Law (Royal Decree M/132), in force since 19 January 2023, introduced the Simplified Joint Stock Company (SJSC), and the Commercial Register Law (Royal Decree M/83), in force since 3 April 2025, made the CR number the national unified number, replaced CR expiry with an annual data confirmation and requires a linked bank account. Draft the articles of association and CR activities around the regulated activity, because SAMA's file includes draft articles and the CMA's checklist includes a Ministry of Commerce trade-name reservation; our [incorporation](@/incorporation/) page sets out each step. A new Commercial Transactions Law, published in Umm Al-Qura on 13 November 2026, takes effect 180 days after publication and treats every company formed under the Companies Law as a merchant; our [Commercial Transactions Law guide](@/insights/saudi-commercial-transactions-law-2026/) covers what it changes.
 
@@ -102,7 +102,7 @@ The timings below are only those set in the rules or reported by law firms. Our 
 | 4. Incorporate | Articles and CR, with a linked bank account | Within 180 days (payments) or six months (finance, BNPL, aggregation) of SAMA approval |
 | 5. Registrations | Activity licences, ZATCA, GOSI and Qiwa | Activity licences within 90 days, per law-firm reporting |
 | 6. Readiness | Hire, finalise policies and systems, and meet any outstanding capital requirement; SAMA visit or CMA commencement requirements | Finance companies: within 12 months of the CR |
-| 7. Every year | Reconfirm MISA registration and CR data; renew CMA activities | CMA renewal fees due by 30 June |
+| 7. Every year | Reconfirm MISA registration and CR data; pay the CMA fee for each activity | CMA annual fees due by 30 June; the CMA authorisation itself runs ten years (CMIR Art 7(g)) |
 
 ## Common mistakes foreign founders make
 

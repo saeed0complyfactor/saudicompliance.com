@@ -3,13 +3,13 @@ title: How to Apply for a SAMA Payment Licence: Steps and Timeline
 h1: How to apply for a SAMA <em>payment licence</em>
 description: To apply for a SAMA payment licence, pick a PI or EMI category (SAR 1m to 10m capital), email the file, and SAMA decides within 90 days of completeness.
 date: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-23
 hero: papers-review
 service: @/licensing/payment-institution-licence/
 service_label: Payment institution licence support
 tags: SAMA licensing, Payments
 ---
-To get a SAMA payment licence, match each product flow to a licence category under the Payments Implementing Regulations. Then plan the legal form and capital that category requires, from SAR 1 million for a Micro payment institution to SAR 10 million for a Major e-money institution, and email an in-principle application to SAMA. SAMA decides within 90 calendar days of confirming the file is complete, or tells you a revised timeline. You then have 180 days to incorporate before the final licensing stage.
+To get a SAMA payment licence, match each product flow to a licence category under the Payments Implementing Regulations. Then plan the legal form and capital that category requires, from SAR 1 million for a Micro payment institution to SAR 10 million for a Major e-money institution, and email an in-principle application to SAMA. SAMA decides within 90 calendar days of confirming the file is complete, or tells you a revised timeline. You then have 180 days to incorporate before the final licensing stage. What each category allows and requires is on our [SAMA payment licence (PSP) requirements](@/licensing/payment-institution-licence/) page; this guide covers the application itself.
 
 The rules are the Law of Payments and Payment Services (Royal Decree M/26 dated 22/03/1443H) and its Implementing Regulations of 13 June 2023, which repealed SAMA's January 2020 PSP framework. SAMA said on 22 July 2026 that 33 licensed companies offer payment services in Saudi Arabia, up from 28 in November 2025. For how SAMA's remit sits next to the CMA's, see our [guide to Saudi financial regulators](@/insights/saudi-financial-regulators-guide/); for every licence route in one table, see [SAMA and CMA licences](@/licensing/).
 
@@ -51,21 +51,11 @@ On the official texts, open banking providers are licensed under the payments li
 
 Payment system operators are the least documented route. Capital matches the system's size and complexity (Article 44(2)), the term is case by case (Article 17(2)), and SAMA's Oversight Framework on Payment Systems and their Operators (circular 472047719, 8 March 2026) is in Arabic only. We did not find the legal form, fees or process for operators in the English texts, and whether an international card scheme needs an operator licence depends on SAMA's determination under Article 5. Ask SAMA directly.
 
-## Capital, fees and legal form for each category
+## Capital, fees and legal form: summary
 
-| Category | Initial capital (Art 44) | Ongoing capital (Art 45) | Legal form (Art 14) | Issue fee (Art 23) |
-|---|---|---|---|---|
-| Micro PI | SAR 1,000,000 | The initial amount | JSC, simplified JSC or LLC | SAR 20,000 |
-| Major PI | SAR 3,000,000 | Higher of SAR 3m or 1% of average monthly payment value | Joint stock company | SAR 50,000 |
-| Micro EMI | SAR 2,000,000 | The initial amount | Joint stock company | SAR 20,000 |
-| Major EMI | SAR 10,000,000 | Higher of SAR 10m or 2% of average outstanding e-money | Joint stock company | SAR 50,000 |
-| PIS (alone or with AIS) | SAR 1,000,000 | Not stated in the texts reviewed | Not stated; confirm with SAMA | SAR 20,000 |
-| AIS | SAR 500,000 | Not stated in the texts reviewed | Not stated; confirm with SAMA | SAR 20,000 |
-| Payment system operator | Case by case | Case by case | Not published | Not published |
+Capital starts at SAR 1 million for a Micro payment institution and rises to SAR 10 million for a Major e-money institution. Issue fees are SAR 20,000 for the Micro categories and the two open banking licences, and SAR 50,000 for the Major categories. All four PI and EMI categories, with capital and issue fee, are tabled on the [SAMA payment licence (PSP) requirements](@/licensing/payment-institution-licence/) page; wallets are covered on the [e-money licence](@/licensing/e-money-licence/) page and payment initiation and account information on the [open banking licence](@/licensing/open-banking-licence/) page.
 
 Licences run for up to five years, with renewal due at least six months before expiry (Article 17). The SAMA Rulebook says the Arabic text prevails, so check figures against it before they go into a board paper.
-
-Ongoing capital for the Major categories rises with volume. A Major PI needs more than its SAR 3 million floor once average monthly payment value passes SAR 300 million, and a Major EMI needs more than SAR 10 million once average outstanding e-money passes SAR 500 million.
 
 Only a Micro PI may be an LLC or simplified JSC, so a Micro PI that grows into the Major category faces a change of legal form as well as more capital. Commercial registration and articles at the Ministry of Commerce must be completed within 180 days of approval in principle; see [incorporation](@/incorporation/).
 

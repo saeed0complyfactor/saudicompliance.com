@@ -93,7 +93,7 @@ HOME = {
     "licences_h2": "Licences we prepare",
     "licences_all": ("See every licence", "@/licensing/"),
     "licences": [
-        ("signing", "SAMA", "Payment institution", "Micro from SAR 1m, Major from SAR 3m", "@/licensing/payment-institution-licence/"),
+        ("signing", "SAMA", "SAMA payment licence", "Micro from SAR 1m, Major from SAR 3m", "@/licensing/payment-institution-licence/"),
         ("kingdom-centre-pink", "SAMA", "BNPL", "SAR 5m, joint stock company", "@/licensing/bnpl-licence/"),
         ("curved-glass", "SAMA", "Open banking", "Licensing live since March 2026", "@/licensing/open-banking-licence/"),
         ("tower-bw", "CMA", "FinTech permit & CMI licences", "Test first, then license", "@/licensing/cma-licences/"),

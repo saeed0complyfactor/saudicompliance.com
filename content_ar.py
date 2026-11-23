@@ -94,7 +94,7 @@ HOME = {
     "licences_h2": "التراخيص التي نُعدّها",
     "licences_all": ("اطّلع على جميع التراخيص", "@/licensing/"),
     "licences": [
-        ("signing", "ساما", "مؤسسة مدفوعات", "الصغرى من 1 مليون ريال، والكبرى من 3 ملايين ريال", "@/licensing/payment-institution-licence/"),
+        ("signing", "ساما", "ترخيص ساما للمدفوعات", "الصغرى من 1 مليون ريال، والكبرى من 3 ملايين ريال", "@/licensing/payment-institution-licence/"),
         ("kingdom-centre-pink", "ساما", "اشترِ الآن وادفع لاحقاً", "5 ملايين ريال، شركة مساهمة", "@/licensing/bnpl-licence/"),
         ("curved-glass", "ساما", "المصرفية المفتوحة", "الترخيص متاح منذ مارس 2026", "@/licensing/open-banking-licence/"),
         ("tower-bw", "هيئة السوق المالية", "تصريح التقنية المالية وتراخيص مؤسسات السوق المالية", "التجربة أولاً، ثم الترخيص", "@/licensing/cma-licences/"),

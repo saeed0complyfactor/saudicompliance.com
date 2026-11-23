@@ -9,12 +9,13 @@ PAGES = [
     "slug": "licensing/cma-licences",
     "stage": 1,
     "hero": "tower-bw",
-    "title": "CMA Licence Saudi Arabia: Activities, Capital and Fees",
-    "description": "CMA licences in Saudi Arabia: the five securities activities, capital in force, 2020 fees, registered persons and the May 2026 draft not yet adopted.",
+    "title": "CMA Licence in Saudi Arabia (2026): How to Get One, Capital, Fees",
+    "description": "How to get a CMA licence in Saudi Arabia: the five securities activities, capital in force, fees, the ten-year licence term and the May 2026 draft.",
     "h1": "CMA <em>licences</em> for fintech and investment firms",
     "lede": "Securities business in or into Saudi Arabia needs Capital Market Authority authorisation. This page maps every CMA route, the capital and fees in force today, and the draft changes that are still pending.",
     "blocks": [
         {"type": "prose", "h2": "Who needs a CMA licence", "body": [
+            "The Capital Market Authority (CMA) is Saudi Arabia's securities regulator; it licenses capital market institutions under the Capital Market Law and the Capital Market Institutions Regulations.",
             "Article 31 of the Capital Market Law says no person may carry on securities business in the Kingdom, or claim to, without a CMA licence. That holds even when the security is listed or traded on a foreign regulated market. The Securities Business Regulations add that only a CMA-authorised capital market institution (CMI) or an exempt person may carry on securities business.",
             "The perimeter reaches firms based abroad. Under Article 4 of the Securities Business Regulations, activity carried on with or for a person in the Kingdom is presumed to be carried on in the Kingdom, and securities advertisements aimed at people in Saudi Arabia, online ones included, must be made or approved by a CMI.",
             "The CMA prosecutes unlicensed activity. In March 2026 a person was convicted and fined SAR 250,000 for providing advisory services on social media without a licence.",
@@ -24,6 +25,13 @@ PAGES = [
             ("Capital market institution licence", "The full licence for dealing, arranging, managing, advising or custody, with capital, legal form and registered persons set per activity. See the <a href=\"@/licensing/capital-market-institution-licence/\">CMI licence guide</a>."),
             ("Crowdfunding under an Arranging licence", "Equity crowdfunding since 2022 and debt-instrument crowdfunding since September 2025, both run by a CMI authorised for Arranging. See the <a href=\"@/licensing/crowdfunding-licence-saudi-arabia/\">crowdfunding licence guide</a>."),
             ("Robo-advisory under a Managing licence", "A regulated service since 5 March 2026, open only to CMIs licensed for Managing. See the <a href=\"@/licensing/robo-advisory-licence/\">robo-advisory guide</a>."),
+        ]},
+        {"type": "steps", "h2": "How to get a CMA licence, step by step", "items": [
+            ("Choose the activities", "Map the business to the five securities activities below. The activities you choose fix your capital, legal form, registered persons and fees."),
+            ("Set up the Saudi entity", "The applicant must be established in the Kingdom in a permitted legal form, and foreign shareholders register the investment with the Ministry of Investment. See <a href=\"@/incorporation/\">fintech company setup</a>."),
+            ("File the Annex 3.1 application on the CMA portal", "Submit the Authorisation Application and the Annex 3.1 documents through the Authorisation System on the CMA's Unified Business Sector Portal, with the study fee for each activity."),
+            ("Answer information requests", "The CMA may ask for more information and may refuse the application if it is not provided within 30 days (CMIR Art 7)."),
+            ("Licence resolution and commencement of business", "The CMA Board issues a licence resolution, and the firm starts business only after completing the commencement-of-business requirements. Each stage is set out on the <a href=\"@/licensing/capital-market-institution-licence/\">CMI licence page</a>."),
         ]},
         {"type": "table", "h2": "The five securities activities and the capital in force", "head": ["Activity", "What it covers", "Minimum paid-up capital", "Legal form"], "rows": [
             ["Dealing", "Dealing in a security as principal or agent, including buying, selling, managing subscriptions and underwriting", "SAR 50 million", "Restricted forms (Art 6(f))"],
@@ -45,16 +53,9 @@ PAGES = [
         {"type": "prose", "h2": "What else the May 2026 draft would change", "body": [
             "The draft would also cut the licensing and commencement documents, extend IT Officer registration to every CMI that uses a technology platform, link KYC to each client's money-laundering risk rating through three new forms, and let advising-only CMIs carry on other businesses. None of this applies until the CMA publishes an approved text.",
         ]},
-        {"type": "table", "h2": "Licence fees: study fee and annual renewal", "head": ["Activity", "Application study fee (SAR)", "Annual renewal fee (SAR)"], "rows": [
-            ["Dealing", "85,000", "85,000"],
-            ["Managing investments and operating funds", "60,000", "60,000"],
-            ["Managing investments", "30,000", "30,000"],
-            ["Arranging", "20,000", "20,000"],
-            ["Advising", "20,000", "20,000"],
-            ["Custody", "15,000", "15,000"],
-        ], "note": "CMA circular ص/1/6/5989/20 dated 27 October 2020, based on a Board decision of 24 August 2020. The circular is a scanned Arabic PDF with no English version. It is still linked from the CMA Forms page, but we cannot confirm the amounts are unchanged since 2020. Check before you pay."},
-        {"type": "prose", "h2": "Renewal every year, per activity", "body": [
-            "Each amount is charged as the study fee with the application and again every year as the renewal fee for that activity, due by 30 June. Renewal depends on the CMA having no concerns about the firm's capability and fitness, and on the firm still meeting financial adequacy and minimum capital. The FinTech Experimental Permit has no fee under the current Instructions.",
+        {"type": "prose", "h2": "Licence fees and the ten-year licence term", "body": [
+            "The CMA charges a study fee for each activity with the application and the same amount again every year, from SAR 15,000 for custody to SAR 85,000 for dealing, under its circular of 27 October 2020. That circular is a scanned Arabic PDF and we cannot confirm the amounts are unchanged since 2020, so check before you pay. The per-activity fee table is on the <a href=\"@/licensing/capital-market-institution-licence/\">capital market institution licence</a> page. The FinTech Experimental Permit has no fee under the current Instructions.",
+            "The current CMIR grant an authorisation for ten years, renewed automatically for the same period while the CMI continues to meet the fit and proper, prudential and minimum capital requirements and pays the fees the CMA sets each year (Art 7(g), English text amended 7 January 2026). The 2020 circular, which predates that text, describes licences as renewed every year for each activity, with the fee due by 30 June. On our reading the licence runs for ten years and the fee is paid every year; confirm the payment date with the CMA.",
         ]},
         {"type": "list", "h2": "Registered persons every CMI needs", "items": [
             "At all times: a registered CEO, CFO, Compliance Officer and MLRO (CMIR Art 20(b)).",
@@ -63,13 +64,13 @@ PAGES = [
             "A CMI limited to managing investments, arranging or advising may outsource the CFO, Compliance Officer or MLRO function within limits; see the <a href=\"@/licensing/capital-market-institution-licence/\">CMI licence guide</a>.",
             "Registered persons must be resident in the Kingdom unless the CMA grants an exemption (Art 24(b)), and must pass the CMA qualification exams or hold an exemption (Art 21(d)).",
         ]},
-        {"type": "table", "h2": "CMA qualification exams by function", "head": ["Function", "Exams"], "rows": [
-            ["General registrable functions", "CME-1A and CME-1B"],
-            ["Compliance and AML/CTF route", "CME-1B, CME-2A and CME-2B"],
-            ["Securities brokers", "CME-3A and CME-3B"],
-            ["Managing activity (asset managers)", "CME-4A and CME-4B"],
-            ["Corporate finance", "CME-5A and CME-5B"],
-        ], "note": "The new exam series has been mandatory since 1 February 2023 and was developed with the Financial Academy and CISI. Holders of the old certificates can still register. The CMA guide names the route \"Compliance and AML/CTF\"; confirm with the CMA which route it expects for your MLRO."},
+        {"type": "prose", "h2": "CMA certification for registered persons", "body": [
+            "Registered persons must pass the CMA qualification exams (the CME series, mandatory since 1 February 2023) or hold an exemption. The exams depend on the function, from CME-1A and CME-1B for general functions to the compliance and AML/CTF route. The full table is in the CMA certification section of the <a href=\"@/licensing/capital-market-institution-licence/\">CMI licence page</a>.",
+        ]},
+        {"type": "prose", "h2": "Cybersecurity, data and the IT Officer", "body": [
+            "The CMA's Cybersecurity Guidelines for Capital Market Institutions describe themselves as guidelines to all CMIs, and state that the controls labelled \"Main Controls\" are mandatory. The CMA's 2019 annual report lists issuing the guide among that year's achievements. The guidelines say they do not replace any law or regulation in the Kingdom, and that those prevail where the two conflict.",
+            "The CMIR require a registered IT Officer at all times where a CMI offers robo-advisory, and the IT Officer is also a registrable function for CMIs arranging securities crowdfunding. The May 2026 draft would extend IT Officer registration to every CMI that uses a technology platform. For the national cyber and data rules that apply alongside the CMA's, see <a href=\"@/cybersecurity-compliance-saudi-arabia/\">cybersecurity compliance in Saudi Arabia</a> and <a href=\"@/pdpl-compliance-saudi-arabia/\">PDPL compliance</a>.",
+        ]},
         {"type": "prose", "h2": "Foreign firms need a Saudi entity", "body": [
             "The CMIR have no branch route for a foreign securities firm. An applicant must be established in the Kingdom, and a CMI must keep its management and head office in the Kingdom. For dealing, custody and managing, a foreign group therefore needs a Saudi entity in one of the permitted legal forms. Arranging and advising can use any Saudi legal form, including a limited liability company. Entity set-up comes first; see <a href=\"@/incorporation/\">incorporation</a>.",
             "Foreign groups do use this route. In 2026 the CMA licensed Standard Chartered Capital Saudi Arabia, Brookfield Arabia and Neuberger Berman Saudi as Saudi entities.",
@@ -84,7 +85,9 @@ PAGES = [
             ("Can a foreign firm serve Saudi clients from abroad without a CMA licence?", "Usually not. Business carried on with or for a person in the Kingdom is presumed to be carried on in the Kingdom, so the firm needs a licence or an exemption."),
             ("Are the lower May 2026 capital figures in force?", "No. The consultation closed on 17 June 2026 and we found no CMA approval up to early October 2026. The dealing figures also depend on amending the SAR 50 million floor in Article 33 of the Capital Market Law."),
             ("How long does CMA licensing take?", "The CMA's service card gives 0 to 60 business days, varying by service. The full path is longer: information requests (with a 30-day window to respond), the Board's licence resolution, then commencement-of-business requirements before the firm starts."),
-            ("Does the CMA require Saudi nationals in compliance roles?", "The CMIR contain no Saudization quota. They require registered persons to be resident in the Kingdom unless the CMA grants an exemption."),
+            ("Does the CMA require Saudi nationals in compliance roles?", "The CMIR contain no Saudization quota. They require registered persons to be resident in the Kingdom unless the CMA grants an exemption. The company itself is still subject to Nitaqat as an employer; see <a href=\"@/incorporation/\">incorporation</a>."),
+            ("How long is a CMA licence valid?", "Ten years under the current CMIR, renewed automatically for the same period while the CMI keeps meeting the fit and proper, prudential and minimum capital requirements and pays the fees the CMA sets each year (Art 7(g)). The fee is charged per activity every year, and the CMA's 2020 circular puts the due date at 30 June."),
+            ("How can I check whether a firm is CMA-licensed?", "Search the CMA's Financial Market Institutions list, linked in the sources below. It lists the capital market institutions the CMA has authorised."),
         ]},
     ],
     "sources": [
@@ -94,6 +97,10 @@ PAGES = [
         ("CMA circular on licence fees (2020, Arabic)", "https://cma.gov.sa/RulesRegulations/circulars/Documents/circular77.pdf"),
         ("CMA news: AML/CTF Rules rescinded (2018)", "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_2486.aspx"),
         ("CMA: qualification exams guide", "https://cma.gov.sa/en/AboutCMA/CME/Documents/CMEExamsGuidelineEN.pdf"),
+        ("CMA: Financial Market Institutions (authorised firms)", "https://cma.gov.sa/en/Market/AuthorisedPersons/Pages/default.aspx"),
+        ("CMA: Cybersecurity Guidelines for Capital Market Institutions", "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Cyber_Security_en.pdf"),
+        ("CMA: Annual Report 2019", "https://cma.gov.sa/en/Market/Reports/Documents/cma_2019_Report.pdf"),
+        ("CMA: About the CMA", "https://cma.gov.sa/en/AboutCMA/Pages/AboutCMA.aspx"),
     ],
     "related": ["cma-fintech-experimental-permit", "capital-market-institution-licence", "compliance-function"],
 },
@@ -226,7 +233,7 @@ PAGES = [
             "A Registration Application for each registrable function.",
             "Firms limited to managing investments, arranging or advising are excused some Annex 3.1 items. Robo-advisory applicants get a narrower exemption.",
         ]},
-        {"type": "steps", "h2": "Application stages", "items": [
+        {"type": "steps", "h2": "How the CMA licenses a capital market institution", "items": [
             ("Prepare", "Read the Capital Market Law, the implementing regulations and the CMA circulars that apply to your activities, then build the Annex 3.1 file. Foreign shareholders need the Saudi entity in place; see <a href=\"@/incorporation/\">incorporation</a>."),
             ("File on the portal", "Applications go through the Authorisation System on the CMA's Unified Business Sector Portal (eservices.cma.gov.sa), which also handles licence variations and registration of registrable functions. The CMA's service card gives 0 to 60 business days, varying by service."),
             ("Review and information requests", "The CMA may ask for more information and may refuse the application if it is not provided within 30 days (Art 7). Quick, complete answers keep the file moving."),
@@ -236,10 +243,17 @@ PAGES = [
         {"type": "prose", "h2": "Registered persons and minimum staffing", "body": [
             "Every CMI must have a registered CEO, CFO, Compliance Officer and MLRO at all times, plus a registered IT Officer if it offers robo-advisory (Art 20(b)). Other registrable functions include board members and partners, senior managers linked to securities business, and client-facing staff such as investment advisers, portfolio managers and brokerage professionals. The CEO, CFO and Compliance Officer must be different people unless the CMA approves otherwise, and the Compliance Officer may not carry out a client function.",
             "Smaller licences can run lean. A CMI limited to managing investments or arranging needs at least two registered persons, one of them the CEO; an advising-only CMI needs one registered CEO, with other functions outsourced (Art 20(f)). Managing licensees need at least two registered portfolio managers (Art 20(g)). Firms limited to managing investments, arranging or advising may outsource the CFO function to a SOCPA-licensed accounting firm, and the Compliance Officer or MLRO function to another CMI, a SOCPA-licensed accounting firm or a Saudi law firm. The individuals assigned must still pass the CMA exams or hold an exemption.",
-            "Registered persons must be resident in the Kingdom unless exempted (Art 24(b)) and must pass the CMA qualification exams: CME-1A and CME-1B for general functions, CME-3A and 3B for brokers, CME-4A and 4B for managing, CME-5A and 5B for corporate finance, and CME-1B, 2A and 2B for the compliance and AML/CTF route.",
+            "Registered persons must be resident in the Kingdom unless exempted (Art 24(b)) and must pass the CMA qualification exams or hold an exemption (Art 21(d)). The exams for each function are in the table below.",
         ]},
+        {"type": "table", "h2": "CMA certification: the qualification exams (CME) by function", "head": ["Function", "Exams"], "rows": [
+            ["General registrable functions", "CME-1A and CME-1B"],
+            ["Compliance and AML/CTF route", "CME-1B, CME-2A and CME-2B"],
+            ["Securities brokers", "CME-3A and CME-3B"],
+            ["Managing activity (asset managers)", "CME-4A and CME-4B"],
+            ["Corporate finance", "CME-5A and CME-5B"],
+        ], "note": "The new exam series has been mandatory since 1 February 2023 and was developed with the Financial Academy and CISI. Holders of the old certificates can still register. The CMA guide names the route \"Compliance and AML/CTF\"; confirm with the CMA which route it expects for your MLRO."},
         {"type": "list", "h2": "Obligations once licensed", "items": [
-            "Renew each activity every year: the renewal fee is due by 30 June, and renewal depends on continuing fitness, financial adequacy and minimum capital.",
+            "Pay the annual fee for each activity, due by 30 June under the CMA's 2020 circular, and keep meeting the fit and proper, prudential and minimum capital requirements on which the ten-year authorisation renews (Art 7(g)).",
             "Meet ongoing capital adequacy under the CMA Prudential Rules, which sit alongside the entry capital in Art 6(g).",
             "Keep the CEO, CFO, Compliance Officer and MLRO (and IT Officer where required) registered at all times, and file registration changes through the portal.",
             "Make or approve every securities advertisement aimed at people in the Kingdom (SBR Art 17).",
@@ -251,6 +265,8 @@ PAGES = [
         {"type": "faq", "h2": "Common questions", "items": [
             ("Can a limited liability company hold a CMI licence?", "Yes for arranging or advising, which accept any legal form established in the Kingdom. Dealing, custody and managing require one of the forms in Art 6(f), such as a joint stock company or a subsidiary of a local bank."),
             ("Can we outsource the Compliance Officer and MLRO?", "Only if your activities are limited to managing investments, arranging or advising. The functions can then go to another CMI, a SOCPA-licensed accounting firm or a Saudi law firm, and the people doing the work must pass the CMA exams or hold an exemption."),
+            ("How long is a CMA licence valid?", "Ten years under the current CMIR, renewed automatically for the same period while the CMI keeps meeting the fit and proper, prudential and minimum capital requirements and pays the fees the CMA sets each year (Art 7(g)). The fee is charged per activity every year, and the CMA's 2020 circular puts the due date at 30 June."),
+            ("How can I check whether a firm is CMA-licensed?", "Search the CMA's Financial Market Institutions list, linked in the sources below. It lists the capital market institutions the CMA has authorised."),
             ("How many CMIs are licensed?", "The CMA said there were 215 capital market institutions in the fourth quarter of 2025, up from 86 in 2017."),
             ("Can we add an activity later?", "Yes. The CMA portal handles licence variations as well as new applications. Fees and renewals are charged per activity, and the capital and legal form required for the new activity must be in place before it is added."),
         ]},
@@ -262,6 +278,8 @@ PAGES = [
         ("CMA: Forms (authorisation and registration applications)", "https://cma.gov.sa/en/RulesRegulations/FormsSite/Pages/default.aspx"),
         ("CMA: Authorisation e-services", "https://cma.gov.sa/en/Services/Pages/PublicServices.aspx"),
         ("CMA: qualification exams guide", "https://cma.gov.sa/en/AboutCMA/CME/Documents/CMEExamsGuidelineEN.pdf"),
+        ("CMA circular on licence fees (2020, Arabic)", "https://cma.gov.sa/RulesRegulations/circulars/Documents/circular77.pdf"),
+        ("CMA: Financial Market Institutions (authorised firms)", "https://cma.gov.sa/en/Market/AuthorisedPersons/Pages/default.aspx"),
     ],
     "related": ["cma-licences", "compliance-function", "incorporation"],
 },

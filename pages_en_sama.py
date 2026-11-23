@@ -103,10 +103,10 @@ PAGES = [
     "slug": "licensing/payment-institution-licence",
     "stage": 1,
     "hero": "signing",
-    "title": "SAMA Payment Licence: Micro vs Major (2026 Guide)",
-    "description": "SAMA payment institution licence: Micro PI needs SAR 1m capital, Major PI SAR 3m. Fees, legal form, safeguarding, the 90-day decision and senior roles.",
+    "title": "SAMA Payment Licence (PSP): Micro and Major PI Requirements 2026",
+    "description": "A SAMA payment service provider (PSP) licence: a Micro PI needs SAR 1m capital, a Major PI SAR 3m. Fees, legal form, safeguarding and the 90-day decision.",
     "h1": "SAMA payment institution <em>licence</em>",
-    "lede": "Payment services in Saudi Arabia need a SAMA licence under the Law of Payments and Payment Services and its Implementing Regulations of June 2023. Payment institutions come in two sizes: a Micro PI needs SAR 1 million of capital and stays under SAR 10 million of average monthly payment value; a Major PI needs SAR 3 million and has no volume ceiling.",
+    "lede": "Payment services in Saudi Arabia need a SAMA licence under the Law of Payments and Payment Services and its Implementing Regulations of June 2023. Payment institutions come in two sizes: a Micro PI needs SAR 1 million of capital and stays under SAR 10 million of average monthly payment value; a Major PI needs SAR 3 million and has no volume ceiling. SAMA's Rulebook calls these Payment Service Provider (PSP) licences, and the four main categories are two for payment institutions and two for e-money institutions; open banking has its own licence types.",
     "blocks": [
         {"type": "prose", "h2": "Who needs a payment institution licence", "body": [
             "Article 4 of the Law of Payments and Payment Services (Royal Decree M/26) says no person may provide payment services in the Kingdom without a SAMA licence. Article 5 lets SAMA decide when a provider based abroad counts as providing services in the Kingdom, so a foreign wallet or acquirer serving Saudi users should check its position before launch.",
@@ -126,6 +126,12 @@ PAGES = [
             "Article 7 lists 17 exclusions. They include cash-only payments, commercial agents, cash-in-transit, cheques and paper vouchers, technical service providers, limited-network instruments, intra-group payments, some independent ATM deployers, banking business under the Banking Control Law, finance company activity under the Finance Companies Control Law, and money remittance, which the regulations define as funds received without a payment account being created for the payer or payee.",
             "Licensed banks are exempt from payment licensing (Article 48). Limited network service providers register with SAMA instead of applying for a licence, and must tell SAMA if their transactions pass SAR 5 million in 12 months or SAR 2 million in any month. SAMA may then require a licence. Settle the exclusion analysis in writing early, because it decides whether you need a licence at all.",
         ]},
+        {"type": "table", "h2": "The four SAMA payment licence categories", "head": ["Category", "What it covers", "Minimum capital (Art 44)", "Issue fee (Art 23)"], "rows": [
+            ["Micro payment institution (PI)", "Payment services excluding e-money, up to SAR 10m average monthly payment value, domestic only", "SAR 1m", "SAR 20,000"],
+            ["Major payment institution (PI)", "Payment services excluding e-money, no volume ceiling", "SAR 3m, then the higher of SAR 3m or 1% of average monthly payment value", "SAR 50,000"],
+            ["<a href=\"@/licensing/e-money-licence/\">Micro e-money institution (EMI)</a>", "Issuing electronic money, including e-wallets, within the Micro limits", "SAR 2m", "SAR 20,000"],
+            ["<a href=\"@/licensing/e-money-licence/\">Major e-money institution (EMI)</a>", "Issuing electronic money, including e-wallets", "SAR 10m, then the higher of SAR 10m or 2% of average outstanding e-money", "SAR 50,000"],
+        ], "note": "Implementing Regulations of the Law of Payments and Payment Services, Arts 23 and 44 to 45. The e-money categories, their per-user limits and safeguarding are covered on the e-money licence page."},
         {"type": "table", "h2": "Micro or Major payment institution", "head": ["", "Micro payment institution", "Major payment institution"], "rows": [
             ["Services", "One or more payment services, excluding e-money issuance", "Payment services, excluding e-money issuance"],
             ["Volume", "Average monthly payment value of SAR 10m or less", "Average monthly payment value above SAR 10m"],
@@ -144,10 +150,10 @@ PAGES = [
             "Client funds must be safeguarded as soon as they are received. Any funds still held at the end of the business day after receipt go into a segregated account at a licensed bank named \"Deposit and Safeguard of Funds of a Payment Service Provider's Clients\", or into secure liquid assets approved by SAMA and held by an authorised custodian. Safeguarded funds cannot be used for anything else, including lending. SAMA wants the safeguarding policy and the signed bank agreement in the application file.",
             "On the bank guarantee, the texts disagree. Article 8 of the Implementing Regulations asks for an irrevocable guarantee equal to the required minimum capital; the current Licensing Guidelines (Appendix A, item 9) ask for 20% of it. Neither text has been withdrawn, so ask SAMA which figure applies before you approach your bank, and budget for both until you have an answer.",
         ]},
-        {"type": "steps", "h2": "The application, stage by stage", "items": [
+        {"type": "steps", "h2": "How to get a SAMA payment licence: in-principle and licensing stages", "items": [
             ("Prepare the forms", "Read the Implementing Regulations, then complete SAMA's License Application Form and the Fit and Proper Form for shareholders, board and committee members, and every senior position."),
-            ("Submit the in-principle file", "Send the Appendix A documents to NBFI-LIC@SAMA.GOV.SA: board resolution, draft articles, organisation chart, shareholder list, feasibility study, bank guarantee, a three-year business plan with ICAAP, liquidity assessment and a Saudization and recruitment plan, draft policies, key contracts, the business continuity plan and IT architecture."),
-            ("Completeness and questions", "SAMA confirms when the file is complete (Art 11(1)). Answer any request for more information within 30 calendar days (Art 11(2))."),
+            ("Submit the in-principle file (Appendix A)", "Send the Appendix A documents to NBFI-LIC@SAMA.GOV.SA: board resolution, draft articles, organisation chart, shareholder list, feasibility study, bank guarantee, a three-year business plan with ICAAP, liquidity assessment and a Saudization and recruitment plan, draft policies, key contracts, the business continuity plan and IT architecture."),
+            ("Completeness and questions", "SAMA confirms when the file is complete (Art 11(1)). Answer any request for more information within 30 calendar days (Art 11(2)). SAMA may take any measures it considers necessary to assess whether you meet the licensing requirements (Art 11(3))."),
             ("Decision within 90 days", "SAMA decides within 90 calendar days of the completeness notice, or tells you a revised timeline (Art 11(4) to (5))."),
             ("Approval in principle", "Valid for up to one year, extendable by 180 days, and it does not authorise you to operate (Art 15). Complete commercial registration and articles at the Ministry of Commerce within 180 days (Art 14(3))."),
             ("Licensing stage", "Meet the final conditions, pay the fee and receive the licence (Art 23). SAMA enters the licensee in its public online register (Art 16)."),
@@ -165,7 +171,11 @@ PAGES = [
             "A renewal application at least six months before the licence expires (Art 17)",
         ]},
         {"type": "faq", "h2": "Common questions", "items": [
-            ("How many payment companies does SAMA license?", "SAMA said on 22 July 2026 that 33 licensed companies offer payment services in Saudi Arabia, up from 28 in November 2025 and 32 in May 2026."),
+            ("How long does a SAMA payment licence take?", "SAMA decides within 90 calendar days of confirming the file is complete, or tells you a revised timeline (Art 11). The approval in principle lasts up to a year, extendable by 180 days, and commercial registration must be completed within 180 days of it (Arts 14 and 15). Preparing the file and the final licensing stage have no fixed length in the texts. Our guide sets out the <a href=\"@/insights/how-to-get-sama-payment-licence/\">step-by-step application timeline</a>."),
+            ("What does a SAMA payment licence cost?", "The issue fee is SAR 20,000 for a Micro PI and SAR 50,000 for a Major PI (Art 23), and paid-up capital starts at SAR 1 million or SAR 3 million (Art 44). The bank guarantee is 100% or 20% of minimum capital depending on which SAMA text applies, so ask SAMA before you approach your bank. Budget as well for the senior Saudi hires, including the Chief Compliance Officer and AML/CTF Director."),
+            ("Can a foreign company get a SAMA payment licence?", "Yes, through a company established in Saudi Arabia in the legal form the category requires (Art 14). Foreign shareholders register the investment with the Ministry of Investment, and that registration must be in place before the licence is issued. See <a href=\"@/incorporation/\">fintech company setup</a>."),
+            ("Can we start in the SAMA sandbox instead?", "Only for a model that no existing licence covers. SAMA's sandbox FAQ says applications are not accepted where a licensing path already exists, so a standard payment, acquiring or wallet business applies for the licence directly. See the <a href=\"@/licensing/sama-regulatory-sandbox/\">SAMA regulatory sandbox</a>."),
+            ("How many payment companies does SAMA license?", "SAMA said on 22 July 2026 that 33 licensed companies offer payment services in Saudi Arabia, up from 28 in November 2025 and 32 in May 2026. You can check every licensee on SAMA's public list of licensed payment service providers, linked in the sources below."),
             ("Is there a separate payment aggregator or POS licence?", "Payment aggregation is one of the payment services listed in Article 6, so it is licensed as a payment institution activity. Card issuing and merchant acquiring, including POS, are also Article 6 services. We found no separate aggregator, POS or card scheme licence in the SAMA Rulebook."),
             ("Can a Micro payment institution be a limited liability company?", "Yes. Article 14 allows a Micro PI to be a joint stock company, a simplified joint stock company or an LLC. Major payment institutions and all e-money institutions must be joint stock companies."),
             ("Is there a fixed Saudization percentage for payment companies?", "The Implementing Regulations do not set one. Article 29 requires enough qualified staff and compliance with the rules on non-Saudi employment, and the business plan must show the planned share of non-Saudi staff by department and level. The Saudi-only senior roles apply regardless."),
@@ -179,6 +189,8 @@ PAGES = [
         ("SAMA Rulebook: PSP License Application Form", "https://rulebook.sama.gov.sa/en/node/9987"),
         ("SAMA Rulebook: Requirements for Appointments to Senior Positions (Arabic, current version)", "https://rulebook.sama.gov.sa/ar/node/1997"),
         ("SAMA news: payment licence count, 22 July 2026", "https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1161.aspx"),
+        ("SAMA: Licensed payment service providers", "https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/Licensed_Payment_Service_Providers_companies.aspx"),
+        ("SAMA Rulebook: Regulatory Sandbox FAQ", "https://rulebook.sama.gov.sa/en/regulatory-sandbox-faq"),
     ],
     "related": ["e-money-licence", "open-banking-licence", "compliance-function"],
 },
