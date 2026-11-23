@@ -71,7 +71,7 @@ HOME = {
     "words": ["Incorporate", "License", "Build", "Operate", "Assure"],
     "services_h2": "Help at every stage of the licence path",
     "services": [
-        ("riyadh-cityscape", "Incorporation", "MISA investment licence, commercial registration and an entity structured for the licence you need.", "@/incorporation/"),
+        ("riyadh-cityscape", "Incorporation", "MISA investment registration, commercial registration and an entity structured for the licence you need.", "@/incorporation/"),
         ("signing-desk", "SAMA licensing", "Payment, e-money, BNPL, open banking and finance company applications, prepared to SAMA's format.", "@/licensing/"),
         ("glass-tower", "CMA licensing", "FinTech Experimental Permit, Capital Market Institution licences, crowdfunding and robo-advisory.", "@/licensing/cma-licences/"),
         ("collaborate", "MLRO & compliance function", "Recruit and prepare your Saudi CCO and AML Director, then build the AML programme they'll own.", "@/compliance-function/"),
@@ -101,14 +101,14 @@ HOME = {
     "faq": [
         ("Is there a crypto or VASP licence in Saudi Arabia?", "No. Saudi Arabia has no licensing regime for virtual asset service providers, and no onshore crypto exchange is licensed. We explain what is allowed, where the SAMA, CMA and REGA perimeters sit, and when a UAE or Bahrain licence is the realistic route. <a href=\"@/digital-assets/\">Read the full answer</a>."),
         ("Can we outsource our MLRO?", "Not at a SAMA licensee. SAMA requires the Chief Compliance Officer and the AML/CTF Director to be Saudi nationals, and payment and fintech companies need SAMA's written non-objection for both. We recruit and prepare those officers and support them afterwards. <a href=\"@/compliance-function/\">See how</a>."),
-        ("Do we need a Saudi company before we apply?", "Usually, yes. Foreign applicants typically obtain a MISA investment licence and a commercial registration before the regulator application. The required legal form depends on the licence; BNPL providers, for example, must be joint stock companies."),
+        ("Do we need a Saudi company before we apply?", "Not always before you apply. For a SAMA payment licence you apply first and complete commercial registration within 180 days of approval in principle. Foreign-owned companies register the investment with MISA, which since February 2025 issues an Investment Registration Certificate instead of a licence, and that registration must be in place before the licence is issued. See <a href=\"@/incorporation/\">fintech company setup</a>. The required legal form depends on the licence; BNPL providers, for example, must be joint stock companies."),
         ("How long does a SAMA licence take?", "It depends on the category, the quality of the file and SAMA's questions. The process runs in stages, with an approval in principle before the final licence, so plan in months, not weeks. We give you a realistic timeline after scoping."),
         ("Do you work with CMA-regulated firms too?", "Yes. We prepare FinTech Experimental Permit applications and Capital Market Institution licence files, and build CMA-aligned AML/CTF programmes."),
     ],
     "steps_h2": "One path, five stages",
     "steps_lede": "Most firms hire one adviser to incorporate, another to license and a third when the regulator writes. We run the whole path, so nothing falls between them.",
     "steps": [
-        ("riyadh-cityscape", "Incorporate", "MISA investment licence, commercial registration, capital and a legal form that suits your target licence."),
+        ("riyadh-cityscape", "Incorporate", "MISA investment registration, commercial registration, capital and a legal form that suits your target licence."),
         ("signing-desk", "License", "Licence selection, business plan, policies and the SAMA or CMA application file, through to the approval in principle and the final licence."),
         ("collaborate", "Build", "Recruitment and SAMA non-objection for your CCO and AML Director, an enterprise-wide risk assessment, and the AML/CFT programme."),
         ("hallway-hijab", "Operate", "Co-sourced compliance monitoring, regulatory returns, suspicious transaction reporting procedures, PDPL and staff training."),
@@ -159,7 +159,7 @@ PAGES = [
     "lede": "Pick up where you are. Most clients join at licensing and stay through the first independent review.",
     "blocks": [
         {"type": "cards", "h2": "Five stages", "items": [
-            ("riyadh-cityscape", "1 · Incorporate", "MISA investment licence, commercial registration and entity structure.", "@/incorporation/"),
+            ("riyadh-cityscape", "1 · Incorporate", "MISA investment registration, commercial registration and entity structure.", "@/incorporation/"),
             ("signing-desk", "2 · License", "SAMA and CMA applications, from licence selection to final approval.", "@/licensing/"),
             ("collaborate", "3 · Build", "Saudi CCO and AML Director, risk assessment and the AML/CFT programme.", "@/compliance-function/"),
             ("hallway-hijab", "4 · Operate", "Co-sourced compliance, reporting, PDPL and training.", "@/ongoing-compliance/"),

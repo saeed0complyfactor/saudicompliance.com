@@ -30,7 +30,7 @@ PAGES = [
             ("Choose the activities", "Map the business to the five securities activities below. The activities you choose fix your capital, legal form, registered persons and fees."),
             ("Set up the Saudi entity", "The applicant must be established in the Kingdom in a permitted legal form, and foreign shareholders register the investment with the Ministry of Investment. See <a href=\"@/incorporation/\">fintech company setup</a>."),
             ("File the Annex 3.1 application on the CMA portal", "Submit the Authorisation Application and the Annex 3.1 documents through the Authorisation System on the CMA's Unified Business Sector Portal, with the study fee for each activity."),
-            ("Answer information requests", "The CMA may ask for more information and may refuse the application if it is not provided within 30 days (CMIR Art 7)."),
+            ("Answer information requests", "The CMA may require additional information within 30 days of its request, and may refuse to consider the application if the information is not provided within that time (CMIR Art 7(a)(3) and (b))."),
             ("Licence resolution and commencement of business", "The CMA Board issues a licence resolution, and the firm starts business only after completing the commencement-of-business requirements. Each stage is set out on the <a href=\"@/licensing/capital-market-institution-licence/\">CMI licence page</a>."),
         ]},
         {"type": "table", "h2": "The five securities activities and the capital in force", "head": ["Activity", "What it covers", "Minimum paid-up capital", "Legal form"], "rows": [
@@ -55,7 +55,7 @@ PAGES = [
         ]},
         {"type": "prose", "h2": "Licence fees and the ten-year licence term", "body": [
             "The CMA charges a study fee for each activity with the application and the same amount again every year, from SAR 15,000 for custody to SAR 85,000 for dealing, under its circular of 27 October 2020. That circular is a scanned Arabic PDF and we cannot confirm the amounts are unchanged since 2020, so check before you pay. The per-activity fee table is on the <a href=\"@/licensing/capital-market-institution-licence/\">capital market institution licence</a> page. The FinTech Experimental Permit has no fee under the current Instructions.",
-            "The current CMIR grant an authorisation for ten years, renewed automatically for the same period while the CMI continues to meet the fit and proper, prudential and minimum capital requirements and pays the fees the CMA sets each year (Art 7(g), English text amended 7 January 2026). The 2020 circular, which predates that text, describes licences as renewed every year for each activity, with the fee due by 30 June. On our reading the licence runs for ten years and the fee is paid every year; confirm the payment date with the CMA.",
+            "The current CMIR grant an authorisation for ten years, renewed automatically for the same period while the CMI continues to meet the fit and proper, prudential and minimum capital requirements and pays the fees the CMA sets each year (Art 7(g); the official Arabic text, as amended on 7 January 2026, says the same). The CMA's 2020 fee circular still describes licences as renewed every year for each activity, with the fee due by 30 June. On our reading the licence runs for ten years and the fee is paid every year; confirm the payment date with the CMA.",
         ]},
         {"type": "list", "h2": "Registered persons every CMI needs", "items": [
             "At all times: a registered CEO, CFO, Compliance Officer and MLRO (CMIR Art 20(b)).",
@@ -236,7 +236,7 @@ PAGES = [
         {"type": "steps", "h2": "How the CMA licenses a capital market institution", "items": [
             ("Prepare", "Read the Capital Market Law, the implementing regulations and the CMA circulars that apply to your activities, then build the Annex 3.1 file. Foreign shareholders need the Saudi entity in place; see <a href=\"@/incorporation/\">incorporation</a>."),
             ("File on the portal", "Applications go through the Authorisation System on the CMA's Unified Business Sector Portal (eservices.cma.gov.sa), which also handles licence variations and registration of registrable functions. The CMA's service card gives 0 to 60 business days, varying by service."),
-            ("Review and information requests", "The CMA may ask for more information and may refuse the application if it is not provided within 30 days (Art 7). Quick, complete answers keep the file moving."),
+            ("Review and information requests", "The CMA may require additional information within 30 days of its request, and may refuse to consider the application if the information is not provided within that time (Art 7(a)(3) and (b)). Quick, complete answers keep the file moving."),
             ("Licence resolution", "The CMA Board issues a licence resolution. The firm cannot start business on the resolution alone."),
             ("Commencement of business", "The firm completes the commencement-of-business requirements. The CMA then publishes a second announcement that the firm is licensed and has completed those requirements."),
         ]},
