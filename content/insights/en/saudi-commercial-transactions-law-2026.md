@@ -3,7 +3,7 @@ title: Saudi Commercial Transactions Law 2026: A Fintech Guide
 h1: The Commercial Transactions Law: <em>what fintechs should change</em> before May 2027
 description: Saudi Commercial Transactions Law: published 13 Nov 2026, in force 180 days later. What it means for fintech contracts, guarantees and Arabic records.
 date: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-24
 hero: papers-review
 service: @/incorporation/
 service_label: Company setup support
@@ -81,7 +81,7 @@ From the effective date, Royal Decree item 3 replaces the phrase "commercial boo
 |---|---|
 | 37 | Every merchant keeps an accounting system with records of its financial transactions and events and when they happened, showing its financial position, rights and obligations. The system must produce information on request at any time and support financial statements and tax and zakat returns. It may be paper or digital |
 | 38 | Records are kept in Arabic. Another language may be used as well, but the Arabic records prevail if they differ |
-| 39 | Records, their contents and supporting documents are retained as the Accounting Records Regulation sets, and may be kept digitally |
+| 39 | Records, their contents and supporting documents are retained as the Accounting Records Regulation sets; the documents may be kept by digital means, as that Regulation sets |
 | 40 | The Regulation sets minimum records for certain categories of merchant and exempt categories, taking business size into account |
 | 41 | Entries in mandatory records are presumed made with the merchant's knowledge and consent unless proven otherwise, and carry evidential weight |
 | 43 | Records must be made available to those entitled under this or other laws, or under court orders, within the period the Regulation sets |

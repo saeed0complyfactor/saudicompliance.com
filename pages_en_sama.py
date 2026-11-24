@@ -175,7 +175,7 @@ PAGES = [
             ("What does a SAMA payment licence cost?", "The issue fee is SAR 20,000 for a Micro PI and SAR 50,000 for a Major PI (Art 23), and paid-up capital starts at SAR 1 million or SAR 3 million (Art 44). The bank guarantee is 100% or 20% of minimum capital depending on which SAMA text applies, so ask SAMA before you approach your bank. Budget as well for the senior Saudi hires, including the Chief Compliance Officer and AML/CTF Director."),
             ("Can a foreign company get a SAMA payment licence?", "Yes, through a company established in Saudi Arabia in the legal form the category requires (Art 14). Foreign shareholders register the investment with the Ministry of Investment, and that registration must be in place before the licence is issued. See <a href=\"@/incorporation/\">fintech company setup</a>."),
             ("Can we start in the SAMA sandbox instead?", "Only for a model that no existing licence covers. SAMA's sandbox FAQ says applications are not accepted where a licensing path already exists, so a standard payment, acquiring or wallet business applies for the licence directly. See the <a href=\"@/licensing/sama-regulatory-sandbox/\">SAMA regulatory sandbox</a>."),
-            ("How many payment companies does SAMA license?", "SAMA said on 22 July 2026 that 33 licensed companies offer payment services in Saudi Arabia, up from 28 in November 2025 and 32 in May 2026. You can check every licensee on SAMA's public list of licensed payment service providers, linked in the sources below."),
+            ("How many payment companies does SAMA license?", "SAMA said on 23 November 2026 that 34 licensed companies offer payment services in Saudi Arabia, after it licensed SPL ANT Saudi for e-wallet services. The count was 28 in November 2025, 32 in May 2026 and 33 in July 2026. You can check every licensee on SAMA's public list of licensed payment service providers, linked in the sources below."),
             ("Is there a separate payment aggregator or POS licence?", "Payment aggregation is one of the payment services listed in Article 6, so it is licensed as a payment institution activity. Card issuing and merchant acquiring, including POS, are also Article 6 services. We found no separate aggregator, POS or card scheme licence in the SAMA Rulebook."),
             ("Can a Micro payment institution be a limited liability company?", "Yes. Article 14 allows a Micro PI to be a joint stock company, a simplified joint stock company or an LLC. Major payment institutions and all e-money institutions must be joint stock companies."),
             ("Is there a fixed Saudization percentage for payment companies?", "The Implementing Regulations do not set one. Article 29 requires enough qualified staff and compliance with the rules on non-Saudi employment, and the business plan must show the planned share of non-Saudi staff by department and level. The Saudi-only senior roles apply regardless."),
@@ -189,6 +189,7 @@ PAGES = [
         ("SAMA Rulebook: PSP License Application Form", "https://rulebook.sama.gov.sa/en/node/9987"),
         ("SAMA Rulebook: Requirements for Appointments to Senior Positions (Arabic, current version)", "https://rulebook.sama.gov.sa/ar/node/1997"),
         ("SAMA news: payment licence count, 22 July 2026", "https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1161.aspx"),
+        ("SAMA news: SPL ANT Saudi licence, 34 payment companies, 23 November 2026", "https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1176.aspx"),
         ("SAMA: Licensed payment service providers", "https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/Licensed_Payment_Service_Providers_companies.aspx"),
         ("SAMA Rulebook: Regulatory Sandbox FAQ", "https://rulebook.sama.gov.sa/en/regulatory-sandbox-faq"),
     ],
@@ -724,7 +725,7 @@ PAGES = [
             "Remittance has moved elsewhere in the rulebook. The Payments Implementing Regulations exclude cash-based \"money remittance\", where no payment account is created for the payer or payee. Transfers from a payment account, including cross-border credit transfers, are payment services under Article 6. On our reading they are open to Major payment institutions and e-money institutions, while Micro payment institutions cannot serve people outside the Kingdom. Banks remit under the Banking Control Law. We found no standalone remittance company licence for new entrants; confirm the route with SAMA for your model. See the <a href=\"@/licensing/payment-institution-licence/\">payment institution licence</a>.",
         ]},
         {"type": "table", "h2": "Legal form and prudential requirements", "head": ["Requirement", "Detail"], "rows": [
-            ["Legal form (Art 6)", "Joint stock company, limited liability company, partnership, sole proprietorship, or branch of a foreign money changer"],
+            ["Legal form (Art 6)", "Joint stock company, limited liability company, general partnership, sole proprietorship, or branch of a foreign money changer"],
             ["Bank guarantee at application", "Equal to the capital, released on SAMA's decision"],
             ["Cash reserve", "5% of capital held at a licensed bank, or 10% for transfer licensees"],
             ["Balance sheet limit", "Total assets capped at 10 times capital"],
@@ -735,7 +736,8 @@ PAGES = [
             ["External auditor", "No more than 5 consecutive years"],
         ]},
         {"type": "prose", "h2": "A wider choice of legal form", "body": [
-            "Money exchange accepts more legal forms than the payments, BNPL and crowdfunding regimes, including a sole proprietorship or partnership. A foreign money changer can also operate through a branch, with invested capital set by SAMA. The bank guarantee here is clear: it equals the capital, so a currency-dealing applicant should plan for a SAR 2 million guarantee alongside SAR 2 million of capital until SAMA releases the guarantee.",
+            "Money exchange accepts more legal forms than the payments, BNPL and crowdfunding regimes, including a sole proprietorship or general partnership. A foreign money changer can also operate through a branch, with invested capital set by SAMA. The bank guarantee here is clear: it equals the capital, so a currency-dealing applicant should plan for a SAR 2 million guarantee alongside SAR 2 million of capital until SAMA releases the guarantee.",
+            "Only companies and branches of foreign money changers can add cash import and export, and SAMA's register labels each licensee Class A, B or C by scope. See <a href=\"@/insights/money-exchange-licence-classes-saudi-arabia/\">choosing a money changer class</a> for what each class allows and how many firms hold it.",
         ]},
         {"type": "list", "h2": "Ongoing obligations", "items": [
             "AML/CTF under Section 7 of the Rules, including due diligence on correspondents",
@@ -759,7 +761,7 @@ PAGES = [
         {"type": "faq", "h2": "Common questions", "items": [
             ("Can a new company get a money-transfer licence?", "Not under the money exchange rules. Only firms licensed when the 2020 Rules were issued may transfer money. For account-based transfers, look at the <a href=\"@/licensing/payment-institution-licence/\">payment institution</a> or <a href=\"@/licensing/e-money-licence/\">e-money</a> licences."),
             ("What is the minimum capital for a money changer?", "SAR 2 million to buy and sell foreign currency in the Kingdom, and SAR 7 million to import and export cash as well."),
-            ("Can a sole proprietor hold a money exchange licence?", "Yes. Article 6 allows a joint stock company, LLC, partnership, sole proprietorship or branch of a foreign money changer."),
+            ("Can a sole proprietor hold a money exchange licence?", "Yes. Article 6 allows a joint stock company, LLC, general partnership, sole proprietorship or branch of a foreign money changer."),
             ("How much is the bank guarantee?", "It equals the capital required for the licence, and SAMA releases it on its decision."),
             ("How long is the licence valid?", "Up to five years, renewable. It lapses if business does not start within three months of issue."),
         ]},

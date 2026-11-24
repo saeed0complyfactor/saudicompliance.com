@@ -3,7 +3,7 @@ title: How to Apply for a SAMA Payment Licence: Steps and Timeline
 h1: How to apply for a SAMA <em>payment licence</em>
 description: To apply for a SAMA payment licence, pick a PI or EMI category (SAR 1m to 10m capital), email the file, and SAMA decides within 90 days of completeness.
 date: 2026-10-11
-updated: 2026-11-23
+updated: 2026-11-24
 hero: papers-review
 service: @/licensing/payment-institution-licence/
 service_label: Payment institution licence support
@@ -11,7 +11,7 @@ tags: SAMA licensing, Payments
 ---
 To get a SAMA payment licence, match each product flow to a licence category under the Payments Implementing Regulations. Then plan the legal form and capital that category requires, from SAR 1 million for a Micro payment institution to SAR 10 million for a Major e-money institution, and email an in-principle application to SAMA. SAMA decides within 90 calendar days of confirming the file is complete, or tells you a revised timeline. You then have 180 days to incorporate before the final licensing stage. What each category allows and requires is on our [SAMA payment licence (PSP) requirements](@/licensing/payment-institution-licence/) page; this guide covers the application itself.
 
-The rules are the Law of Payments and Payment Services (Royal Decree M/26 dated 22/03/1443H) and its Implementing Regulations of 13 June 2023, which repealed SAMA's January 2020 PSP framework. SAMA said on 22 July 2026 that 33 licensed companies offer payment services in Saudi Arabia, up from 28 in November 2025. For how SAMA's remit sits next to the CMA's, see our [guide to Saudi financial regulators](@/insights/saudi-financial-regulators-guide/); for every licence route in one table, see [SAMA and CMA licences](@/licensing/).
+The rules are the Law of Payments and Payment Services (Royal Decree M/26 dated 22/03/1443H) and its Implementing Regulations of 13 June 2023, which repealed SAMA's January 2020 PSP framework. SAMA said on 23 November 2026, when it licensed SPL ANT Saudi for e-wallet services, that 34 licensed companies offer payment services in Saudi Arabia, up from 33 on 22 July 2026 and 28 in November 2025. For how SAMA's remit sits next to the CMA's, see our [guide to Saudi financial regulators](@/insights/saudi-financial-regulators-guide/); for every licence route in one table, see [SAMA and CMA licences](@/licensing/).
 
 > **Key takeaways** Choose the category first, because it fixes your capital, legal form and what you may do: a Micro payment institution is capped at SAR 10 million of average monthly payment value and cannot serve people outside the Kingdom, and every e-money institution must be a joint stock company. Line up the Saudi-national Chief Compliance Officer and AML/CTF Director early, since SAMA wants fit and proper forms for all senior positions in the first file. Ask SAMA whether your bank guarantee is 100% or 20% of minimum capital, because the published texts disagree.
 
@@ -45,7 +45,7 @@ Micro is a domestic category. A remittance corridor, a payout product for people
 
 ### Remittance, open banking and payment system operators
 
-SAMA issues no new money-transfer licences under its money changing rules; only firms licensed when those rules were issued in 2020 may transfer money. Account-based transfers, including cross-border transfers from payment accounts, are Article 6 payment services. On our reading they are open to Major payment institutions and e-money institutions, and closed to Micro payment institutions.
+SAMA issues no new money-transfer licences under its money changing rules; only firms licensed when those rules were issued in 2020 may transfer money. Account-based transfers, including cross-border transfers from payment accounts, are Article 6 payment services. On our reading they are open to Major payment institutions and e-money institutions, and closed to Micro payment institutions. For what a money changer can and cannot do under each register class, see [choosing a money changer class](@/insights/money-exchange-licence-classes-saudi-arabia/).
 
 On the official texts, open banking providers are licensed under the payments licence types; we found no separate open banking framework with its own capital or fees. SAMA began licensing them on 26 March 2026, and the licences it had announced by 11 October 2026 were all for account information. See the [open banking licence](@/licensing/open-banking-licence/) page.
 
@@ -180,5 +180,6 @@ Work in this order: confirm the category and legal form, open talks with the saf
 - [SAMA: eSAMA portal trial launch (news-1068)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1068.aspx)
 - [SAMA: SAMA commences open banking licensing (news-1135)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1135.aspx)
 - [SAMA: 33 licensed payment companies (news-1161)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1161.aspx)
+- [SAMA: SPL ANT Saudi licensed, 34 payment companies (news-1176)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1176.aspx)
 - [SAMA: 28 licensed payment companies (news-1117)](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1117.aspx)
 - [SAMA: Licensed Payment Service Providers companies](https://www.sama.gov.sa/en-US/Supervision/LicenseEntities/Pages/Licensed_Payment_Service_Providers_companies.aspx)

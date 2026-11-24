@@ -3,7 +3,7 @@ title: Saudi Arabia Financial Regulators: Who Licenses What (2026)
 h1: Saudi Arabia's financial regulators: who <em>licenses</em> what (2026)
 description: Saudi Arabia financial regulators explained: SAMA licenses payments, lending and banks, the CMA securities, the IA insurance. No crypto licence exists.
 date: 2026-10-11
-updated: 2026-11-23
+updated: 2026-11-24
 hero: riyadh-aerial
 service: @/licensing/
 service_label: Licence selection and application support
@@ -73,7 +73,7 @@ Aggregation, which SAMA also calls digital intermediation, links customers with 
 
 ### Money exchange, digital banks and the sandbox
 
-Money changers are licensed under the [Rules Regulating Money Changing Business](https://rulebook.sama.gov.sa/en/node/3372) (11 July 2020): SAR 2m capital for currency dealing, SAR 7m for importing and exporting cash. Money transfer under these rules is limited to firms that held a transfer licence in 2020, so new entrants cannot get one. In our reading, a new account-based remittance business would need a Major PI or EMI licence instead; confirm with SAMA. See our [money exchange licence guide](@/licensing/money-exchange-licence/).
+Money changers are licensed under the [Rules Regulating Money Changing Business](https://rulebook.sama.gov.sa/en/node/3372) (11 July 2020): SAR 2m capital for currency dealing, SAR 7m for importing and exporting cash. Money transfer under these rules is limited to firms that held a transfer licence in 2020, so new entrants cannot get one. In our reading, a new account-based remittance business would need a Major PI or EMI licence instead; confirm with SAMA. See our [money exchange licence guide](@/licensing/money-exchange-licence/), and for the register's Class A, B and C labels, our guide to [choosing a money changer class](@/insights/money-exchange-licence-classes-saudi-arabia/).
 
 Digital-only banks are licensed under the [Banking Control Law](https://rulebook.sama.gov.sa/en/node/996) and SAMA's [digital-only bank guidelines](https://rulebook.sama.gov.sa/en/additional-licensing-guidelines-and-criteria-digital-only-banks-saudi-arabia-feb-2020) of 24 February 2020. The applicant must be a locally incorporated joint stock company. No minimum capital is published; SAMA sets it case by case from the ICAAP and ILAAP. The Council of Ministers grants the licence, and operations need a separate SAMA no-objection. [EZ Bank](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1112.aspx), licensed in September 2025, has SAR 2.5bn of capital. See our [digital bank licence guide](@/licensing/digital-bank-licence/), and for who holds a licence today, our register analysis of [licensed digital banks](@/insights/licensed-digital-banks-saudi-arabia/).
 
