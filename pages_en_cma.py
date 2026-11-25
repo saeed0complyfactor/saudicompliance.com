@@ -21,7 +21,7 @@ PAGES = [
             "The CMA prosecutes unlicensed activity. In March 2026 a person was convicted and fined SAR 250,000 for providing advisory services on social media without a licence.",
         ]},
         {"type": "steps", "h2": "Four routes for fintech and investment firms", "items": [
-            ("FinTech Experimental Permit", "A time-limited permit to test a new securities-related product with real clients through the CMA FinTech Lab, for up to two years from commencement. See the <a href=\"@/licensing/cma-fintech-experimental-permit/\">FinTech Experimental Permit guide</a>."),
+            ("FinTech Experimental Permit", "A time-limited permit to test a new securities-related product with real clients through the CMA FinTech Lab, for up to two years from commencement. See the <a href=\"@/licensing/cma-fintech-experimental-permit/\">FinTech Experimental Permit guide</a>, and <a href=\"@/insights/cma-fintech-permit-vs-licence-saudi-arabia/\">permit or licence: what the CMA registers show</a>."),
             ("Capital market institution licence", "The full licence for dealing, arranging, managing, advising or custody, with capital, legal form and registered persons set per activity. See the <a href=\"@/licensing/capital-market-institution-licence/\">CMI licence guide</a>."),
             ("Crowdfunding under an Arranging licence", "Equity crowdfunding since 2022 and debt-instrument crowdfunding since September 2025, both run by a CMI authorised for Arranging. See the <a href=\"@/licensing/crowdfunding-licence-saudi-arabia/\">crowdfunding licence guide</a>."),
             ("Robo-advisory under a Managing licence", "A regulated service since 5 March 2026, open only to CMIs licensed for Managing. See the <a href=\"@/licensing/robo-advisory-licence/\">robo-advisory guide</a>."),
@@ -118,7 +118,7 @@ PAGES = [
     "lede": "The CMA FinTech Lab lets a firm test a new securities-related product with real clients, under conditions the CMA sets, for up to two years before it needs a full licence.",
     "blocks": [
         {"type": "prose", "h2": "What the permit is", "body": [
-            "The Financial Technology Experimental Permit is granted under the CMA's FinTech Experimental Permit Instructions, issued by Board Resolution 1-4-2018 and updated by Resolution 2-9-2021. The Lab opened in 2018 and took its first batch of applications in February that year.",
+            "The Financial Technology Experimental Permit is granted under the CMA's FinTech Experimental Permit Instructions, issued by Board Resolution 1-4-2018 and updated by Resolution 2-9-2021 (the official Arabic text gives the number as 2-90-2021). The Lab opened in 2018 and took its first batch of applications in February that year.",
             "Anyone may apply, including a firm that is not a capital market institution, provided the product it wants to test relates to securities activities. A CMI that already holds the authorisation the product needs does not need a permit. A product that is mature and can comply with the full rules is expected to apply for a <a href=\"@/licensing/capital-market-institution-licence/\">capital market institution licence</a> instead.",
         ]},
         {"type": "list", "h2": "Eligibility: what the CMA tests", "items": [
@@ -147,8 +147,8 @@ PAGES = [
         ]},
         {"type": "prose", "h2": "Duration, extensions and moving to a full licence", "body": [
             "A permit lasts up to two years from commencement of business. An extension request must be filed at least three months before expiry, and the CMA grants extensions only in exceptional cases. At expiry the firm either runs its client exit strategy or obtains a full licence.",
-            "Debt-instrument crowdfunding shows how the move works. The model was tested in the Lab from the second quarter of 2021 and became a licensed activity in September 2025. Existing permit holders may continue until their permits expire and must then hold an Arranging licence, and the CMA now accepts new Lab applications for that model only where there is an innovative element to test. Robo-advisory, also tested in the Lab, became a regulated service in March 2026. See <a href=\"@/licensing/crowdfunding-licence-saudi-arabia/\">crowdfunding</a> and <a href=\"@/licensing/robo-advisory-licence/\">robo-advisory</a>.",
-            "Plan the licence file during the test. The CMI licence needs capital, a permitted legal form for some activities, registered persons who have passed the CMA exams, and the Annex 3.1 documents, none of which you want to start in the last six months of a permit.",
+            "Debt-instrument crowdfunding shows how the move works. The model was tested in the Lab from the second quarter of 2021 and became a licensed activity in September 2025. Existing permit holders may continue until their permits expire and may then apply for the appropriate licence, which for this model is Arranging, and the CMA now accepts new Lab applications for that model only where there is an innovative element to test. Robo-advisory, also tested in the Lab, became a regulated service in March 2026. See <a href=\"@/licensing/crowdfunding-licence-saudi-arabia/\">crowdfunding</a> and <a href=\"@/licensing/robo-advisory-licence/\">robo-advisory</a>.",
+            "Plan the licence file during the test. The CMI licence needs capital, a permitted legal form for some activities, registered persons who have passed the CMA exams, and the Annex 3.1 documents, none of which you want to start in the last six months of a permit. Our guide on <a href=\"@/insights/cma-fintech-permit-vs-licence-saudi-arabia/\">choosing between a FinTech Lab permit and a CMA licence</a> compares the two side by side, using the CMA's own registers.",
         ]},
         {"type": "table", "h2": "How many permits: the numbers count different things", "head": ["Figure", "What it counts", "Source"], "rows": [
             ["17", "Permits granted by October 2021", "CMA press release"],
@@ -160,12 +160,12 @@ PAGES = [
             "The live list covers debt instruments, fund distribution, robo-advisory, social trading, artificial intelligence in advisory, and a model the CMA calls \"Stock Ownership Transfer\". Earlier permits, listed in 2021, covered equity crowdfunding, robo-advisory, debt instruments, social trading and a platform using distributed ledger technology to arrange and offer securities and provide custody.",
             "The CMA's list does not describe the technology behind the Stock Ownership Transfer model, and the CMA has issued no rules on tokenisation. A Lab permit is a test permission for a named product. It does not create a digital-asset licence.",
         ]},
-        {"type": "table", "h2": "Recent permit decisions", "head": ["Date", "Decision", "CMA announcement"], "rows": [
+        {"type": "table", "h2": "Recent permit announcements", "head": ["Date", "Announcement", "CMA announcement"], "rows": [
             ["4 May 2025", "Mekyal permit cancelled and licence suspended", "CMA_N_3788"],
-            ["1 June 2025", "InvestSky permit for social trading", "CMA_N_3804"],
-            ["8 December 2025", "Sindbad.Tech permit for AI in advisory", "CMA_N_3947"],
+            ["1 June 2025", "InvestSky completed the commencement requirements for its social trading permit (Board decision 5 February 2024)", "CMA_N_3804"],
+            ["8 December 2025", "Sindbad.Tech completed the commencement requirements for its AI-in-advisory permit (Board decision 27 November 2023)", "CMA_N_3947"],
             ["30 July 2026", "Tatwir Aliddikhar robo-advisory permit cancelled at the company's request", "CMA_N_4095"],
-            ["31 August 2026", "Lamha Tanbu permit for AI in advisory", "CMA_N_4110"],
+            ["31 August 2026", "Lamha Tanbu completed the commencement requirements for its AI-in-advisory permit (Board decision 14 May 2025)", "CMA_N_4110"],
         ]},
         {"type": "prose", "h2": "The April 2026 draft update is not adopted", "body": [
             "On 26 April 2026 the CMA consulted on new FinTech Experimental Permit Instructions (CMA_N_4030, consultation closed 27 May 2026). The FinTech Lab page still links only the 2021 Instructions, and we found no approval announcement, so the 2021 text governs applications today.",
@@ -342,7 +342,7 @@ PAGES = [
         ]},
         {"type": "prose", "h2": "From the FinTech Lab to a licence", "body": [
             "Both models were tested in the <a href=\"@/licensing/cma-fintech-experimental-permit/\">FinTech Lab</a> before they were regulated. Equity crowdfunding rules were consulted on for 45 days from April 2022 and approved in September 2022, amending the CMIR, the Investment Accounts Instructions, OSCO and the Glossary. Debt-instrument crowdfunding was tested from the second quarter of 2021; by 2024 there were 17 debt crowdfunding permits and about SAR 3.4 billion of sukuk issued through them. A draft framework followed in March 2025 and was approved in September 2025.",
-            "Lab firms in debt crowdfunding may continue until their permits expire and then need an Arranging licence. New Lab applications for the model are accepted only where there is an innovative element to test, so a new debt platform goes straight to the licence. The CMA's 2025 annual report puts debt-platform offerings above SAR 5.1 billion in 2025.",
+            "Lab firms in debt crowdfunding may continue until their permits expire and may then apply for an Arranging licence. New Lab applications for the model are accepted only where there is an innovative element to test, so a new debt platform goes straight to the licence. The CMA's 2025 annual report puts debt-platform offerings above SAR 5.1 billion in 2025.",
         ]},
         {"type": "steps", "h2": "Getting a platform licensed", "items": [
             ("Settle the instrument and regulator", "Confirm whether investors will hold shares or debt instruments (CMA) or loans (SAMA), and whether the platform will hold client money."),
@@ -415,7 +415,7 @@ PAGES = [
             "Annex 3.1 of the CMIR lets firms limited to managing investments, arranging or advising skip some application documents. Robo-advisory applicants get a narrower version of that exemption, so expect to file more than a conventional managing-only applicant. Full detail is in the <a href=\"@/licensing/capital-market-institution-licence/\">CMI licence guide</a>.",
         ]},
         {"type": "prose", "h2": "AI advice and the edges of the perimeter", "body": [
-            "The CMA continues to use the FinTech Lab for newer models. It granted permits for artificial intelligence in advisory to Sindbad.Tech in December 2025 and Lamha Tanbu in August 2026, and cancelled the Tatwir Aliddikhar robo-advisory permit at the company's request in July 2026. A product that fits the new robo-advisory rules and can comply with them is expected to seek a licence; a genuinely new model may still be a Lab candidate.",
+            "The CMA continues to use the FinTech Lab for newer models. It announced that Sindbad.Tech (December 2025) and Lamha Tanbu (August 2026) had completed the commencement requirements for permits to test artificial intelligence in advisory, granted by Board decisions of November 2023 and May 2025, and cancelled the Tatwir Aliddikhar robo-advisory permit at the company's request in July 2026. A product that fits the new robo-advisory rules and can comply with them is expected to seek a licence; a genuinely new model may still be a Lab candidate.",
             "Unlicensed advice is enforced. In March 2026 a person was fined SAR 250,000 after conviction for providing advisory services on social media without a licence.",
             "The market is growing quickly. CMA figures put assets managed on fintech platforms at SAR 6.41 billion in the fourth quarter of 2025, up 87% on a year earlier, across 534,571 portfolios.",
         ]},
@@ -438,7 +438,7 @@ PAGES = [
         ("CMA: Capital Market Institutions Regulations (amended 2026)", "https://cma.gov.sa/en/RulesRegulations/Regulations/Documents/the_Capital_Market_Institutions_Regulations-en.pdf"),
         ("CMA: Glossary of Defined Terms (March 2026)", "https://cma.gov.sa/en/RulesRegulations/Regulations/Documents/GlossaryofDefinedTermsUsed_03_2026_EN.pdf"),
         ("CMA news: robo-advisory consultation (August 2025)", "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_3852.aspx"),
-        ("CMA news: AI-in-advisory permit (August 2026)", "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_4110.aspx"),
+        ("CMA news: AI-in-advisory permit holder completes commencement requirements (August 2026)", "https://cma.gov.sa/en/MediaCenter/NEWS/Pages/CMA_N_4110.aspx"),
         ("CMA press release: 2025 annual report", "https://cma.gov.sa/en/MediaCenter/PR/Pages/CMA_2025_REPORT.aspx"),
     ],
     "related": ["cma-licences", "capital-market-institution-licence", "cma-fintech-experimental-permit"],

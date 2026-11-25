@@ -32,6 +32,7 @@ Regulatory compliance advisory in Riyadh for fintechs: incorporation, SAMA and C
 - [Money exchange licence](https://saudicompliance.com/en/licensing/money-exchange-licence/): SAMA money exchange licence request: SAR 2m capital for currency dealing, SAR 7m with cash import and export, fees, and no new money-transfer licences.
 
 ## Guides
+- [FinTech Lab Permit or CMA Licence: What the Registers Show](https://saudicompliance.com/en/insights/cma-fintech-permit-vs-licence-saudi-arabia/): Permit or full CMA licence? We read the CMA's lists of licensed institutions and FinTech Lab firms to show which route fits and what changes when you move.
 - [Money Changer Classes A, B and C in Saudi Arabia Explained](https://saudicompliance.com/en/insights/money-exchange-licence-classes-saudi-arabia/): SAMA's register sorts 64 money changers into Classes A, B and C. What each class allows, the capital it needs, and why new applicants choose B or C.
 - [Licensed Digital Banks in Saudi Arabia: SAMA's 2026 List](https://saudicompliance.com/en/insights/licensed-digital-banks-saudi-arabia/): SAMA's register lists four licensed digital banks: STC bank, Vision Bank, D360 Bank and EZ Bank (not yet operational). Dates, capital and launch gaps.
 - [Saudi Commercial Transactions Law 2026: A Fintech Guide](https://saudicompliance.com/en/insights/saudi-commercial-transactions-law-2026/): Saudi Commercial Transactions Law: published 13 Nov 2026, in force 180 days later. What it means for fintech contracts, guarantees and Arabic records.
