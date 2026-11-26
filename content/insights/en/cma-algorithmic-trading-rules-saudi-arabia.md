@@ -3,7 +3,7 @@ title: CMA Algorithmic Trading Rules: The 20-Order Cap Explained
 h1: CMA algorithmic trading rules: <em>the 20-order cap</em> and Article 54
 description: CMA algorithmic trading rules: a 20 order-to-execution ratio per trader and security on Main Market securities from 1 Nov 2026, with firms given to 31 Dec.
 date: 2026-11-20
-updated: 2026-11-22
+updated: 2026-11-26
 draft: false
 hero: tower-bw
 service: @/licensing/capital-market-institution-licence/
@@ -109,7 +109,7 @@ A CMI licensed only for advising, arranging or managing investments still has th
 
 ## Status and next milestone
 
-As of 19 November 2026, Circular No. 2613523 is in force: the cap has applied since 1 November 2026, and CMIs are inside the adjustment period that ends on 31 December 2026. The next fixed date is 1 January 2027, when market-making algorithmic orders come under the cap. The Capital Market Institutions Regulations we read are the text amended by Board Resolution 2-3-2026 of 7 January 2026. We will update this guide if the CMA amends the circular, publishes an English version, or issues anything on the market-making evaluation.
+As of 19 November 2026, Circular No. 2613523 is in force: the cap has applied since 1 November 2026, and CMIs are inside the adjustment period that ends on 31 December 2026. The next fixed date is 1 January 2027, when market-making algorithmic orders come under the cap. The Capital Market Institutions Regulations we read are the text amended by Board Resolution 2-3-2026 of 7 January 2026. We will update this guide if the CMA amends the circular, publishes an English version, or issues anything on the market-making evaluation. The CMA's Circular No. 2613524 on dealing in financial markets outside the Kingdom, issued the same day, is covered in [our guide to the foreign-market dealing rules](@/insights/cma-foreign-market-dealing-rules-saudi-arabia/).
 
 This guide summarises the CMA's documents and is not legal advice. Saudi Compliance helps CMIs set up the governance, testing and monitoring files that sit behind these controls, alongside its [capital market institution licence](@/licensing/capital-market-institution-licence/) work; for the wider licence picture see [CMA licences](@/licensing/cma-licences/) and the [compliance function](@/compliance-function/).
 

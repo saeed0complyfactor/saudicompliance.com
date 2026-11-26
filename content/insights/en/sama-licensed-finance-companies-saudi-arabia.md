@@ -3,7 +3,7 @@ title: Licensed Finance and BNPL Companies in Saudi Arabia, 2026
 h1: What SAMA's <em>register</em> shows about finance licences in 2025 and 2026
 description: SAMA put licensed finance companies at 80 on 22 Nov 2026, up from 62 at end-2024. BNPL and consumer microfinance led new licences. Register data.
 date: 2026-11-20
-updated: 2026-11-23
+updated: 2026-11-26
 hero: papers-review
 service: @/licensing/finance-company-licence/
 service_label: Finance company licence support
@@ -78,7 +78,7 @@ Source: SAMA news releases, English and Arabic, each listed under Sources. Compa
 
 Leaving aside the December 2024 baseline, that is 22 announcements: 11 in 2025 and 11 in 2026 up to 20 November. By activity, seven were for BNPL (including Tamara and Tabby, whose register entries list other activities too), eight consumer microfinance (four of them through financial technology), one microfinance, two debt crowdfunding, two consumer finance and two multi-activity lenders.
 
-The stated total rose by 16 while 22 licences were announced. Five announcements left the total unchanged or lowered it, and the releases do not say why. One exit is on record: on 13 November 2025 SAMA [announced that it had revoked the licence of Fas Finance Company](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1119.aspx), which had offered consumer microfinance through financial technology, after the company asked for cancellation on completing its liquidation. That revocation does not line up with a fall in the totals SAMA stated. The 78 finance companies on the 20 November 2026 register match the last total SAMA published.
+The stated total rose by 16 while 22 licences were announced. Five announcements left the total unchanged or lowered it, and the releases do not say why. One exit is on record: on 13 November 2025 SAMA [announced that it had revoked the licence of Fas Finance Company](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1119.aspx), which was licensed for consumer microfinance through financial technology, after the company asked for cancellation on completing its liquidation; the release says the owner decided on 10 July 2025 to liquidate it as a dormant company. That revocation does not line up with a fall in the totals SAMA stated. The 78 finance companies on the 20 November 2026 register match the last total SAMA published.
 
 ## Checks against SAMA's activity counts
 
@@ -86,7 +86,7 @@ Some releases also give the number of companies in one activity, which lets us t
 
 - Debt crowdfunding: SAMA counted 12 companies on 31 December 2024 and 14 on 24 November 2025, although we found only one debt crowdfunding licence announced between those dates (Madd Balas). Mansat Hima followed in July 2026, and the register lists 15.
 - Finance aggregation: SAMA counted 5 aggregators on 23 March 2025 and has announced six more since. The register lists 11.
-- Consumer microfinance: SAMA counted 12 companies on 28 January 2026 and 11 on 28 April 2026, when it licensed Tak Mal, and then licensed Credit Line in July 2026. The register lists 13 under its two consumer microfinance activities. We found no release that explains these movements.
+- Consumer microfinance: SAMA counted 12 companies offering consumer microfinance on 28 January 2026, and 11 on 28 April 2026, when it licensed Tak Mal for consumer microfinance through financial technology. The Arabic release ties the 11 to that activity (هذا النشاط), so the two counts may cover different activities. SAMA then licensed Credit Line in July 2026. The register lists 13 under its two consumer microfinance activities. We found no release that explains these movements.
 
 ## What the numbers mean for founders and compliance teams
 
