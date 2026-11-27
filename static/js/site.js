@@ -236,6 +236,7 @@
         const j = await res.json();
         if (!j.success) throw new Error(j.message);
         form.reset(); msg.classList.add('ok'); msg.textContent = msg.dataset.ok;
+        window.gtag?.("event", "generate_lead", { form: "contact" });
       } catch (err) {
         msg.classList.add('err'); msg.textContent = msg.dataset.err;
       } finally { btn.disabled = false; label.textContent = orig; }

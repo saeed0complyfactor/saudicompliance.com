@@ -42,6 +42,10 @@ UI = {
     "office": "Riyadh, Saudi Arabia",
     "parent_line": "Saudi Compliance is a ComplyFactor company.",
     "rights": "All rights reserved.",
+    "cookies": {
+        "text": "We'd like to use Google Analytics and Microsoft Clarity cookies to understand how this site is used. They load only if you accept.",
+        "link": "How we use data", "no": "Decline", "yes": "Accept", "open": "Cookie choices",
+    },
     "form": {
         "name": "Full name", "email": "Work email", "company": "Company", "stage": "Where are you now?",
         "stage_opts": ["Planning entry to Saudi Arabia", "Incorporated, preparing a licence application", "Application filed with SAMA or the CMA",
@@ -588,7 +592,7 @@ LEGAL = {
         "body": [
             ("Who we are", "Saudi Compliance is a ComplyFactor company with an office in Riyadh. We are the controller of personal data you send us through this website."),
             ("What we collect", "When you use the contact form, we collect your name, work email, company, and what you tell us about your needs. We do not use advertising trackers."),
-            ("Analytics", "We use Google Analytics 4 to see how visitors use this site: pages viewed, approximate location, device and the site that referred you. It sets first-party cookies and never receives what you type into the contact form. Google processes this data, including outside Saudi Arabia. You can block analytics cookies in your browser settings or with Google's opt-out browser add-on."),
+            ("Analytics", "If you agree, we use Google Analytics 4 and Microsoft Clarity to understand how visitors use this site. Google Analytics gives us usage statistics: pages viewed, approximate location, device and the site that referred you. Clarity shows us heatmaps and session recordings of how pages are used, with what you type into form fields masked. Both set cookies. Neither loads unless you choose Accept on the cookie banner; if you choose Decline, or make no choice, they stay off. We rely on your consent for this, as the PDPL permits. Advertising storage is switched off, so this data is not used for ads. Google and Microsoft process this data, including outside Saudi Arabia. You can change your choice at any time with the Cookie choices button at the foot of every page.", "analytics"),
             ("Why we use it", "To reply to your enquiry and, if you engage us, to deliver our services. We don't sell personal data or use it for unrelated purposes."),
             ("Legal basis", "We process your data with your consent, which you give by sending the form, and as needed to take steps before entering into a contract with you, as the Personal Data Protection Law (PDPL) permits."),
             ("Who receives it", "Our form provider delivers your message to our inbox, and our ComplyFactor colleagues may assist with your enquiry. Some of these services are outside Saudi Arabia; we transfer data only as the PDPL and its transfer regulations allow."),

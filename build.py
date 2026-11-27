@@ -27,7 +27,8 @@ PHONE_TEL = ""
 WHATSAPP = ""                                # digits only, e.g. "9665XXXXXXXX"; empty hides the button
 STREET_ADDRESS = ""                          # Riyadh office street address; empty shows city only
 WEB3FORMS_KEY = "cbe536ca-6b46-40cb-b5d6-71ec02ef63d2"  # same public key as AML Canada (ComplyFactor inbox)
-GA4_ID = "G-5KEVFW2BEF"
+GA4_ID = "G-5KEVFW2BEF"                     # loads only after Accept on the consent banner
+CLARITY_ID = "zjx4vvw6uw"                            # Microsoft Clarity project ID; empty = Clarity off
 INDEXNOW_KEY = "6ab4c4106b365a3183b4a9dde24d761e"  # served at /<key>.txt; ping IndexNow after publishing
 LINKEDIN = "https://www.linkedin.com/company/saudicompliance/"
 PARENT = {"name": "ComplyFactor", "url": "https://complyfactor.com"}
@@ -110,8 +111,8 @@ def find_page(lang, key):
 # Shared chrome
 # ---------------------------------------------------------------------------
 
-def arrow_btn(label, href, cls="btn"):
-    return (f'<a class="{cls}" href="{href}"><span class="btn-label">{label}</span>'
+def arrow_btn(label, href, cls="btn", track=""):
+    return (f'<a class="{cls}" href="{href}"{f' data-track="{track}"' if track else ''}><span class="btn-label">{label}</span>'
             f'<span class="btn-tile" aria-hidden="true"><span class="btn-arr">{icon("arrow")}</span>'
             f'<span class="btn-arr btn-arr-2">{icon("arrow")}</span></span></a>')
 
@@ -128,10 +129,8 @@ def head(lang, title, desc, slug, jsonld):
     if len(have) > 1:
         alt = "".join(f'<link rel="alternate" hreflang="{HREFLANG[l]}" href="{DOMAIN}{page_url(l, slug)}">' for l in have)
         alt += f'<link rel="alternate" hreflang="x-default" href="{DOMAIN}{page_url("en", slug)}">'
-    ga = ""
-    if GA4_ID:
-        ga = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA4_ID}"></script>'
-              f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag('js',new Date());gtag('config','{GA4_ID}');</script>")
+    ga = (f"<script>window.SITE_CONFIG = {json.dumps({'gaId': GA4_ID, 'clarityId': CLARITY_ID})}</script>"
+          '<script src="/static/js/analytics.js" defer></script>')
     font = "readex-arabic" if lang == "ar" else "outfit-latin"
     return f"""<!doctype html>
 <html lang="{HREFLANG[lang]}" dir="{c.DIR}">
@@ -183,14 +182,14 @@ def nav(lang, slug):
     <nav class="nav-links" aria-label="Primary">{links}</nav>
     <div class="nav-end">
       <a class="lang" href="{twin}" hreflang="{HREFLANG[other]}" lang="{HREFLANG[other]}">{ui['lang_switch']}</a>
-      <a class="nav-cta" href="{L(ui['cta_href'], lang)}">{ui['cta']}</a>
+      <a class="nav-cta" href="{L(ui['cta_href'], lang)}" data-track="nav-cta">{ui['cta']}</a>
       <button class="burger" type="button" aria-expanded="false" aria-controls="menu" data-burger><span class="sr">{ui['menu']}</span>{icon('menu')}</button>
     </div>
   </div>
   <div class="menu" id="menu" hidden>
     <div class="wrap">
       <nav aria-label="Mobile">{links}<a href="{twin}" lang="{HREFLANG[other]}">{ui['lang_switch']}</a></nav>
-      {arrow_btn(ui['cta'], L(ui['cta_href'], lang))}
+      {arrow_btn(ui['cta'], L(ui['cta_href'], lang), track='menu-cta')}
     </div>
   </div>
 </header>
@@ -199,6 +198,7 @@ def nav(lang, slug):
 
 def footer(lang):
     ui = C[lang].UI
+    ck = ui["cookies"]
     cols = "".join(
         f'<div class="f-col"><h2 class="f-h">{h}</h2><ul>' + "".join(f'<li><a href="{L(u, lang)}">{t}</a></li>' for t, u in items) + "</ul></div>"
         for h, items in ui["footer_cols"])
@@ -215,10 +215,14 @@ def footer(lang):
         <address>{esc(addr)}<br>{contact}{ph}</address></div>
       {cols}
     </div>
-    <div class="f-bottom"><p>{ui['parent_line']}</p><p>© <span data-year>2026</span> Saudi Compliance. {ui['rights']}</p></div>
+    <div class="f-bottom"><p>{ui['parent_line']}</p><p>© <span data-year>2026</span> Saudi Compliance. {ui['rights']} <button type="button" class="f-cookie" data-consent-open hidden>{ck['open']}</button></p></div>
   </div>
   <p class="f-word" aria-hidden="true">Saudi Compliance</p>
 </footer>
+<div class="cookie-bar" role="region" aria-label="{ck['open']}" hidden data-consent>
+  <p>{ck['text']} <a href="{page_url(lang, 'privacy')}#analytics">{ck['link']}</a></p>
+  <div class="cookie-actions"><button type="button" class="cookie-btn" data-consent-no>{ck['no']}</button><button type="button" class="cookie-btn" data-consent-yes>{ck['yes']}</button></div>
+</div>
 {'<a class="wa" href="https://wa.me/' + WHATSAPP + '" aria-label="WhatsApp">WhatsApp</a>' if WHATSAPP else ''}
 <script src="/static/js/site.js" defer></script>
 </body>
@@ -251,7 +255,7 @@ def cta_band(lang):
   <div class="wrap cta-in">
     <h2 id="cta-h" class="split display-2" data-split>{"<br>".join(h['cta_h2'])}</h2>
     <p class="lede">{h['cta_lede']}</p>
-    {arrow_btn(ui['cta'], L(ui['cta_href'], lang))}
+    {arrow_btn(ui['cta'], L(ui['cta_href'], lang), track='cta-band')}
   </div>
 </section>"""
 
@@ -498,7 +502,7 @@ def inner_hero(lang, h1, lede, hero_img, trail, cta=True):
       <ol class="crumbs">{crumbs}</ol>
       <h1 class="split display-1b" data-split data-split-now>{h1}</h1>
       <p class="lede rise" style="--d:.5s">{lede}</p>
-      {('<div class="rise" style="--d:.7s">' + arrow_btn(ui['cta'], L(ui['cta_href'], lang)) + '</div>') if cta else ''}
+      {('<div class="rise" style="--d:.7s">' + arrow_btn(ui['cta'], L(ui['cta_href'], lang), track='hero-cta') + '</div>') if cta else ''}
     </div>
     {f'<figure class="hi-img clip-in">{img(hero_img, "", eager=True)}</figure>' if hero_img else ''}
   </div>
@@ -609,7 +613,7 @@ def build_contact(lang):
 def build_legal(lang, key):
     ui, d = C[lang].UI, C[lang].LEGAL[key]
     trail = [(ui["home"], page_url(lang)), (d["title"], page_url(lang, key))]
-    secs = "".join(f'<section class="blk"><h2>{t}</h2><p>{L(b, lang)}</p></section>' for t, b in d["body"])
+    secs = "".join(f'<section class="blk"{f' id="{a[0]}"' if a else ''}><h2>{t}</h2><p>{L(b, lang)}</p></section>' for t, b, *a in d["body"])
     ld = {"@context": "https://schema.org", "@graph": [org_ld(lang), crumbs_ld(lang, trail)]}
     body = f"""<body class="inner legal">
 {nav(lang, key)}
