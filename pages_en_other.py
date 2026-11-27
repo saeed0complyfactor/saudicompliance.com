@@ -97,12 +97,12 @@ PAGES = [
             "Payment, lending, wallet and investment businesses process identity documents, account data, transaction histories and device data in volume. Much of it lives in cloud services, and much of it is shared with banks, identity-verification vendors and group companies outside the Kingdom.",
             "Each of those flows needs a lawful basis and a record. Where data leaves Saudi Arabia, it needs a route under the Transfer Regulation and a documented transfer assessment. Most gaps we find sit in the flows nobody thought of as a transfer: offshore support desks, analytics tools and group reporting.",
         ]},
-        {"type": "table", "h2": "Draft amendments open for comment until 5 November 2026", "head": ["Draft article", "Proposal", "What it would mean for a fintech"], "rows": [
+        {"type": "table", "h2": "Draft amendments: consultation closed 5 November 2026", "head": ["Draft article", "Proposal", "What it would mean for a fintech"], "rows": [
             ["Art. 23", "Personal data stored inside the Kingdom by default; transfers still allowed under the PDPL", "Review where production data, backups and logs are held"],
-            ["Art. 24", "Notify SDAIA within 72 hours of a breach, without a harm threshold", "Incident triage could no longer screen out low-harm breaches"],
-            ["Arts. 28 and 29", "Evidence of consent for marketing", "Keep a retrievable record of each marketing consent"],
+            ["Art. 24", "Notify SDAIA within 72 hours of becoming aware of a breach, without a harm threshold", "Incident triage could no longer screen out low-harm breaches"],
+            ["Arts. 28 and 29", "Consent needed even where a customer relationship exists; marketing data destroyed when consent is withdrawn", "Check the consent record behind every existing-customer campaign"],
             ["Art. 34", "Mandatory controller registration, including where data is transferred abroad", "Registration on the platform becomes a firm requirement"],
-        ], "note": "Proposals only. Draft amendments to the Implementing Regulations were published on Istitlaa, the public consultation platform, for comment from 6 October to 5 November 2026, as reported by Clyde & Co. They are not in force and may change."},
+        ], "note": "Proposals only. SDAIA published the draft amendments on <a href=\"https://istitlaa.scbc.gov.sa/en/Transportation/NDMO/IRofPDPLAmendments2/Pages/default.aspx\">Istitlaa</a>, the public consultation platform, for comment from 6 October to 5 November 2026; as of 27 November 2026 the results report is pending. They are not in force and may change."},
         {"type": "steps", "h2": "Practical PDPL compliance steps", "items": [
             ("Map your data", "A record of processing that covers customers, merchants, staff and counterparties: what you collect, why, where it is stored, who receives it and how long you keep it."),
             ("Register and appoint", "Check whether you must register as a controller on the National Data Governance Platform today, plan for the draft that would make registration mandatory, and appoint a DPO under SDAIA's rules."),
@@ -119,7 +119,7 @@ PAGES = [
         {"type": "faq", "h2": "Common questions", "items": [
             ("When did the PDPL become enforceable?", "The law came into force on 14 September 2023 and became fully enforceable on 14 September 2024, after a one-year grace period, according to most published sources."),
             ("Is storing data in Saudi Arabia now mandatory?", "Not under the rules in force. Draft amendments open for comment from 6 October to 5 November 2026 propose in-Kingdom storage as the default while still allowing transfers under the PDPL. Until SDAIA issues a final text, the current Transfer Regulation applies."),
-            ("How quickly must a personal data breach be reported?", "Within 72 hours to SDAIA. The draft amendments would remove the harm threshold, so more incidents would become reportable."),
+            ("How quickly must a personal data breach be reported?", "Within 72 hours of becoming aware of it, to SDAIA, where the incident may cause harm to the data or the data subject. The draft amendments would remove that harm condition, so more incidents would become reportable."),
             ("Do we need a data protection officer?", "SDAIA issued Rules for Appointing a Personal Data Protection Officer on 27 August 2024. A fintech processing financial data at scale should expect to appoint one and record the DPO's details on the national data governance platform."),
         ]},
     ],
