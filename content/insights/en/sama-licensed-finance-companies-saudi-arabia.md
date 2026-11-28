@@ -3,7 +3,7 @@ title: Licensed Finance and BNPL Companies in Saudi Arabia, 2026
 h1: What SAMA's <em>register</em> shows about finance licences in 2025 and 2026
 description: SAMA put licensed finance companies at 80 on 22 Nov 2026, up from 62 at end-2024. BNPL and consumer microfinance led new licences. Register data.
 date: 2026-11-20
-updated: 2026-11-26
+updated: 2026-11-28
 hero: papers-review
 service: @/licensing/finance-company-licence/
 service_label: Finance company licence support
@@ -15,7 +15,7 @@ As of 20 November 2026, [SAMA's register of licensed finance entities](https://w
 
 ## Update, 23 November 2026
 
-On 22 November 2026 SAMA announced two more finance company licences. It [licensed Neo](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1174.aspx) for consumer microfinance through financial technology, putting the total at 79, and then [licensed Izdihar Financing Company](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1175.aspx) for SME finance, putting it at 80. The Arabic releases give the same totals. When we checked on 23 November 2026, the Finance register still showed 91 entries and did not yet list either company. The tables and counts below are our 20 November 2026 snapshot and cover announcements up to that date.
+On 22 November 2026 SAMA announced two more finance company licences. It [licensed Neo](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1174.aspx) for consumer microfinance through financial technology, putting the total at 79, and then [licensed Izdihar Financing Company](https://www.sama.gov.sa/en-US/MediaCenter/News/Pages/news-1175.aspx) for SME finance, putting it at 80. The Arabic releases give the same totals. When we checked on 23 November 2026, the Finance register still showed 91 entries and did not yet list either company. On 28 November 2026 it showed 92 entries: Neo had been added under licence number 122/أش/202611, and Izdihar was not yet listed. The tables and counts below are our 20 November 2026 snapshot and cover announcements up to that date.
 
 ## How we counted
 
